@@ -1,0 +1,4110 @@
+[
+    {
+        "IoWStationId": "9f4e4fd4-f55c-4500-ab47-a8798b471f77",
+        "StationId": "3132012RV0010",
+        "Name": "尖石堤防沖刷粒子",
+        "CountyCode": "10004",
+        "CountyName": "臺灣省新竹縣",
+        "TownCode": "10004120",
+        "TownName": "尖石鄉",
+        "Latitude": 24.70596,
+        "Longtiude": 121.20416,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "4beec3c3-8183-486a-9c70-5b49313fdcb9",
+                "TimeStamp": "2023-09-08T20:40:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "頭前溪尖石堤防沖刷深度一(第三道防線)",
+                "SIUnit": "m",
+                "Value": 0.6
+            },
+            {
+                "IoWPhysicalQuantityId": "d8bd2838-c7c0-4071-8066-9246c35125a3",
+                "TimeStamp": "2023-09-08T20:40:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "頭前溪尖石堤防沖刷深度二(第二道防線)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "01c63ea1-47cc-461a-afc9-1819142feb80",
+        "StationId": "3132013RVM1IN",
+        "Name": "卓蘭大橋上游右岸0K+150內側沖刷粒子(M1_IN)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.302794,
+        "Longtiude": 120.82499,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "a5e24bb9-344d-48da-b792-0e7a7d150f20",
+                "TimeStamp": "2023-09-06T14:32:59+08:00",
+                "Name": "沖刷深度",
+                "FullName": "卓蘭大橋上游右岸0K+150內側沖刷深度(M1_IN)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "13e9e019-657c-4cb4-ab17-38585f9cd030",
+        "StationId": "3132013RVM1OUT",
+        "Name": "卓蘭大橋上游右岸0K+150外側沖刷粒子(M1_OUT)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.302734,
+        "Longtiude": 120.82492,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ddaf5d0a-3bb6-4414-a07a-ee0f0b13b412",
+                "TimeStamp": "2023-09-06T14:33:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "卓蘭大橋上游右岸0K+150外側沖刷深度(M1_OUT)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "18348b6e-2c54-49a9-b848-55ec7928eeec",
+        "StationId": "3132013RVM4IN",
+        "Name": "卓蘭大橋上游右岸0K+700內側沖刷粒子(M4_IN)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.306526,
+        "Longtiude": 120.8214,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "a27217ad-c241-4508-aef8-aed798e05336",
+                "TimeStamp": "2023-09-06T14:33:09+08:00",
+                "Name": "沖刷深度",
+                "FullName": "卓蘭大橋上游右岸0K+700內側沖刷深度(M4_IN)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "566619da-815d-483c-b672-5ef5285a35f8",
+        "StationId": "3132013RVM2IN",
+        "Name": "卓蘭大橋上游右岸0K+300內側沖刷粒子(M2_IN)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.303802,
+        "Longtiude": 120.824005,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "1587c1ac-a0d8-4839-907d-8b5cb8ce8075",
+                "TimeStamp": "2023-09-06T14:33:02+08:00",
+                "Name": "沖刷深度",
+                "FullName": "卓蘭大橋上游右岸0K+300內側沖刷深度(M2_IN)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "8b10d286-fa0a-4997-ac29-b7a189c4ffa4",
+        "StationId": "3132013RVM2OUT",
+        "Name": "卓蘭大橋上游右岸0K+300外側沖刷粒子(M2_OUT)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.303732,
+        "Longtiude": 120.82391,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "da8dc6a1-c231-49f9-b565-be4fb072d1c4",
+                "TimeStamp": "2023-09-06T14:33:04+08:00",
+                "Name": "沖刷深度",
+                "FullName": "卓蘭大橋上游右岸0K+300外側沖刷深度(M2_OUT)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "95ac43d8-e0a6-41cf-b5a5-39f8e6cc7cad",
+        "StationId": "3132013RVM4OUT",
+        "Name": "卓蘭大橋上游右岸0K+700外側沖刷粒子(M4_OUT)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.306469,
+        "Longtiude": 120.821335,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "619be906-b08b-47ea-89ad-fe94d0167a14",
+                "TimeStamp": "2023-09-06T14:33:11+08:00",
+                "Name": "沖刷深度",
+                "FullName": "卓蘭大橋上游右岸0K+700外側沖刷深度(M4_OUT)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b1516b1f-336d-4c88-8c43-8c8c4e7bcd24",
+        "StationId": "3132013RVM3OUT",
+        "Name": "卓蘭大橋上游右岸0K+500外側沖刷粒子(M3_OUT)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.305119,
+        "Longtiude": 120.82264,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "26edfed2-dc99-4bde-b1bb-260fd0c03ed1",
+                "TimeStamp": "2023-09-06T14:33:08+08:00",
+                "Name": "沖刷深度",
+                "FullName": "卓蘭大橋上游右岸0K+500外側沖刷深度(M3_OUT)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b97a6519-2bc5-4cff-874a-16034f92e024",
+        "StationId": "3132013RVM3IN",
+        "Name": "卓蘭大橋上游右岸0K+500內側沖刷粒子(M3_IN)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.30518,
+        "Longtiude": 120.822716,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "02e214c8-114a-4d44-a82c-d70aee41a141",
+                "TimeStamp": "2023-09-06T14:33:06+08:00",
+                "Name": "沖刷深度",
+                "FullName": "卓蘭大橋上游右岸0K+500內側沖刷深度(M3_IN)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "1bffef38-e1cf-495a-9102-c2951f4b7ba5",
+        "StationId": "3132012RV0009",
+        "Name": "七十分堤防沖刷粒子",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005100",
+        "TownName": "銅鑼鄉",
+        "Latitude": 24.51629,
+        "Longtiude": 120.80282,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "1368d815-fdf9-4a9c-9fc5-1180410f4a63",
+                "TimeStamp": "2023-09-08T20:40:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "後龍溪七十分堤防沖刷深度一(第二道防線)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "46774ea2-c56b-408e-abc4-eab25c962d9c",
+                "TimeStamp": "2023-09-08T20:40:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "後龍溪七十分堤防沖刷深度二(第三道防線)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "3c7de273-09e9-4b76-bece-d023d6644384",
+        "StationId": "3132013RVN225",
+        "Name": "鯉魚潭堤防0K+150外推25M沖刷粒子(N2_25)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005130",
+        "TownName": "三義鄉",
+        "Latitude": 24.348373,
+        "Longtiude": 120.74008,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "dc8960cb-a45c-445b-92f3-695c8b3727bc",
+                "TimeStamp": "2023-09-06T14:33:17+08:00",
+                "Name": "沖刷深度",
+                "FullName": "鯉魚潭堤防0K+150外推25M沖刷深度(N2_25)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "49bf9de7-d42e-499f-9d4d-2877c6c21b19",
+        "StationId": "3132013RVN325",
+        "Name": "鯉魚潭堤防0K+250外推25M沖刷粒子(N3_25)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005130",
+        "TownName": "三義鄉",
+        "Latitude": 24.34897,
+        "Longtiude": 120.739334,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "5d2025da-1484-4bde-8b84-682e49aad41b",
+                "TimeStamp": "2023-09-06T14:33:20+08:00",
+                "Name": "沖刷深度",
+                "FullName": "鯉魚潭堤防0K+250外推25M沖刷深度(N3_25)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "65f91c69-8102-4f77-9411-56ac7070db3b",
+        "StationId": "3132013RVN345",
+        "Name": "鯉魚潭堤防0K+250外推45M沖刷粒子(N3_45)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005130",
+        "TownName": "三義鄉",
+        "Latitude": 24.348804,
+        "Longtiude": 120.73919,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "2c16e6db-e356-4406-a787-4de5504b8fdf",
+                "TimeStamp": "2023-09-06T14:33:22+08:00",
+                "Name": "沖刷深度",
+                "FullName": "鯉魚潭堤防0K+250外推45M沖刷深度(N3_45)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a3f3b7ce-2234-4cf9-9b39-a280ce560cef",
+        "StationId": "3132013RVN145",
+        "Name": "鯉魚潭堤防0K+50外推45M沖刷粒子(N1_45)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005130",
+        "TownName": "三義鄉",
+        "Latitude": 24.347622,
+        "Longtiude": 120.740654,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "167973ed-dfb7-48e6-b5ba-71f17f563fd4",
+                "TimeStamp": "2023-09-06T14:33:15+08:00",
+                "Name": "沖刷深度",
+                "FullName": "鯉魚潭堤防0K+50外推45M沖刷深度(N1_45)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "d2ccac4a-cbc8-46d5-961f-7ba40f4d2bec",
+        "StationId": "3132013RVN125",
+        "Name": "鯉魚潭堤防0K+50外推25M沖刷粒子(N1_25)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005130",
+        "TownName": "三義鄉",
+        "Latitude": 24.34779,
+        "Longtiude": 120.740814,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "145f9ee8-8e1f-454e-884e-231332cfc683",
+                "TimeStamp": "2023-09-06T14:33:13+08:00",
+                "Name": "沖刷深度",
+                "FullName": "鯉魚潭堤防0K+50外推25M沖刷深度(N1_25)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f4e820a5-f9ad-4f8c-8248-4e3d21b59a97",
+        "StationId": "3132013RVN245",
+        "Name": "鯉魚潭堤防0K+150外推45M沖刷粒子(N2_45)",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005130",
+        "TownName": "三義鄉",
+        "Latitude": 24.348215,
+        "Longtiude": 120.73992,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "dd056279-7f12-4d40-b9cd-4eff3ed88c92",
+                "TimeStamp": "2023-09-06T14:33:18+08:00",
+                "Name": "沖刷深度",
+                "FullName": "鯉魚潭堤防0K+150外推45M沖刷深度(N2_45)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "34d5f5d1-b3cd-4870-98a0-65b57d772650",
+        "StationId": "3132013RVJ581",
+        "Name": "芬園堤防沖刷粒子&#40;J5_81&#41;回填",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.018318,
+        "Longtiude": 120.66696,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "1f1cb403-b3bc-4262-be6f-2122fa873f06",
+                "TimeStamp": "2023-09-06T14:32:29+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度&#40;J5_81&#41;回填",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "482a136c-7c55-41ba-bb47-b3859a4123b7",
+        "StationId": "3132013RVJ140",
+        "Name": "芬園堤防沖刷粒子(J1_40)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.025274,
+        "Longtiude": 120.65646,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0b483ff8-8cc7-4c0d-b88d-2e75eeb99335",
+                "TimeStamp": "2023-09-06T14:32:02+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度(J1_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "4bc49dad-bb0b-4d36-b458-fb2aadb6058f",
+        "StationId": "3132013RVJ480",
+        "Name": "芬園堤防沖刷粒子(J4_80)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.020243,
+        "Longtiude": 120.66489,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "3a77288c-5ebe-4f2e-8c23-61349392eff0",
+                "TimeStamp": "2023-09-06T14:32:24+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度&#40;J4_80&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "4c310eab-41bb-4d79-af90-b17fec4c2b95",
+        "StationId": "3132013RVJ340",
+        "Name": "芬園堤防沖刷粒子(J3_40)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.020935,
+        "Longtiude": 120.66219,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "87741f8f-73ca-4780-8e6c-efc60dd583f5",
+                "TimeStamp": "2023-09-06T14:32:17+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度&#40;J3_40&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "60328884-a742-4cda-9f26-f07b0203ad32",
+        "StationId": "3132013RVJ180",
+        "Name": "芬園堤防沖刷粒子(J1_80)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.025742,
+        "Longtiude": 120.65704,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "454a197f-38a3-4a29-9da7-b927f4f80b1f",
+                "TimeStamp": "2023-09-06T14:32:06+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度(J1_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "67b0be09-da3e-41a3-a89d-dd45a98e1422",
+        "StationId": "3132013RVJ440",
+        "Name": "芬園堤防沖刷粒子(J4_40)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.019484,
+        "Longtiude": 120.66425,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "b4fd45ee-5134-4b8c-8b0b-96fb55a34bbc",
+                "TimeStamp": "2023-09-06T14:32:22+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度&#40;J4_40&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "8ef6f7cd-2e8a-4150-9816-6b896f633f74",
+        "StationId": "3132013RVJ380",
+        "Name": "芬園堤防沖刷粒子(J3_80)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.021524,
+        "Longtiude": 120.66264,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "2c9a764a-c308-43da-9ae6-a6ce02faee86",
+                "TimeStamp": "2023-09-06T14:32:20+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度&#40;J3_80&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "987683f0-758e-42f4-a1da-83de8d57c611",
+        "StationId": "3132013RVJ580",
+        "Name": "芬園堤防沖刷粒子(J5_80)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.018318,
+        "Longtiude": 120.66697,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "21fd106a-2b22-4c15-9474-86e9501cb22a",
+                "TimeStamp": "2023-09-06T14:32:28+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度&#40;J5_80&#41;",
+                "SIUnit": "m",
+                "Value": 1.2
+            }
+        ]
+    },
+    {
+        "IoWStationId": "cbe0e0b5-37b8-4b8b-a89d-88380f074bf5",
+        "StationId": "3132013RVJ540",
+        "Name": "芬園堤防沖刷粒子(J5_40)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.017881,
+        "Longtiude": 120.66637,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "c69e1e1f-7546-41f0-9205-3bf2f84c3bf6",
+                "TimeStamp": "2023-09-06T14:32:26+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度&#40;J5_40&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f0923cf1-c156-4894-b128-03e60ea5e8de",
+        "StationId": "3132013RVJ240",
+        "Name": "芬園堤防沖刷粒子(J2_40)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.02294,
+        "Longtiude": 120.65936,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "a5fe950a-612d-46be-8f3c-f5302cd50558",
+                "TimeStamp": "2023-09-06T14:32:09+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度(J2_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f8feca4c-c879-4b23-96c0-b13cfc0779af",
+        "StationId": "3132013RVJ280",
+        "Name": "芬園堤防沖刷粒子(J2_80)",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.02344,
+        "Longtiude": 120.6599,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "34bfeec7-233f-462f-acf0-e3f2192e8623",
+                "TimeStamp": "2023-09-06T14:32:13+08:00",
+                "Name": "沖刷深度",
+                "FullName": "芬園堤防沖刷深度&#40;J2_80&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "abe1697e-40fd-4b9f-a248-25023c6ca1d0",
+        "StationId": "3132014FL0001",
+        "Name": "下山腳堤防沖刷觀測站",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007240",
+        "TownName": "大城鄉",
+        "Latitude": 23.831507,
+        "Longtiude": 120.31873,
+        "AdminName": "經濟部水利署規劃課",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0927a2be-3d56-4535-bdee-453338f685e8",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "6號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "16176e2d-96d7-49c9-beba-fc4c453c11b6",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "4號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "1b59fd76-e982-4236-92cd-34505376eb2a",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "10號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "1d140dbe-2383-4417-a67d-036425c63d31",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "13號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "1f393f0e-2cd3-4e0e-be4d-f66b1f329737",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "15號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "460eec34-1ac5-497e-bfb5-a3c30e648d20",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "2號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "52abff88-0384-4f1b-b335-19ba9451154f",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "7號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "581a6696-6140-470f-a3cd-ba995128b70f",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "1號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "75bae640-0b18-4d70-adc7-8b39dbce5763",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "11號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "81a77d7d-8691-4245-a1dd-c0c960e4c37a",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "8號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "8f02bbaf-6233-44c8-96ad-b84a5d740006",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "9號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "900fc32c-db7c-4d98-9f03-0b3ea1dd4cbf",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "20號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "9976431a-c46c-47c1-a1c6-2bb08bf45bee",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "12號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "9f0963cc-68c6-43c1-a143-8033fd3e5844",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "18號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "aa197211-aa25-4311-867c-caa33de62c8e",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "19號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "ae805d06-8840-48d0-87ac-8f42650a4ccc",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "3號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "df7cde8e-7047-4323-b140-4512cdbcf1b5",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "5號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "e3dd1241-ff07-4afa-807d-eb2f8e6dc007",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "17號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "fe8e0467-7f38-4595-8cbb-b93b3aa9e45c",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "16號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "feb4fa54-7c28-4179-95b1-1b70dc60306a",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "14號孔",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "54cd595e-f4c1-498c-a06d-98553cd14f5d",
+        "StationId": "3132017CO0017",
+        "Name": "里港堤防基地台",
+        "CountyCode": "10013",
+        "CountyName": "臺灣省屏東縣",
+        "TownCode": "10013090",
+        "TownName": "里港鄉",
+        "Latitude": 22.7803,
+        "Longtiude": 120.5437,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "11d1b116-f785-45da-9497-4d1f5071caa5",
+                "TimeStamp": "2019-09-24T14:07:35.044+08:00",
+                "Name": "沖刷深度",
+                "FullName": "里港 003-400cm 沖出深度&#40;危險&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "4d93ea1b-8873-4f93-b7b9-e302273be2ce",
+                "TimeStamp": "2023-09-06T14:31:59+08:00",
+                "Name": "沖刷深度",
+                "FullName": "里港 012-50cm沖出深度(埋回)(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "6c786c19-47c7-4557-a7ae-b7425aaeed05",
+                "TimeStamp": "2019-09-24T14:25:17+08:00",
+                "Name": "沖刷深度",
+                "FullName": "里港 003-200cm 沖出深度&#40;警戒&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "73b7ca18-e8fb-4008-b55a-7b4c1954cfe5",
+                "TimeStamp": "2019-05-17T00:18:35+08:00",
+                "Name": "沖刷深度",
+                "FullName": "里港 002-200cm 沖出深度&#40;危險&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "90e7315f-8b19-4fc2-8f5a-cd5d36f8e842",
+                "TimeStamp": "2019-03-29T14:16:05+08:00",
+                "Name": "沖刷深度",
+                "FullName": "里港 001-200cm 沖出深度&#40;警戒&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "a4bea1cb-cc4c-4375-9170-2a042ecb8de2",
+                "TimeStamp": "2019-03-29T14:15:04+08:00",
+                "Name": "沖刷深度",
+                "FullName": "里港 001-400cm 沖出深度&#40;危險&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "b1a9360e-08b8-44e0-978c-a1d298d122e9",
+                "TimeStamp": "2020-05-18T21:58:34+08:00",
+                "Name": "沖刷深度",
+                "FullName": "里港 001-100cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "fdd125c6-b537-49b5-aba1-0fc5b99abbae",
+                "TimeStamp": "2023-09-06T14:32:01+08:00",
+                "Name": "沖刷深度",
+                "FullName": "里港 012-100cm沖出深度(埋回)(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "cc27e33a-76ba-451d-8731-4b34dd42748c",
+        "StationId": "3132017CO002",
+        "Name": "土庫堤防基地台",
+        "CountyCode": "10013",
+        "CountyName": "臺灣省屏東縣",
+        "TownCode": "10013090",
+        "TownName": "里港鄉",
+        "Latitude": 22.7999,
+        "Longtiude": 120.5011,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "1e3b4459-ac90-4f7e-aff9-de72b45b856a",
+                "TimeStamp": "2019-04-10T14:36:20+08:00",
+                "Name": "沖刷深度",
+                "FullName": "土庫 001-200cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "28571204-dfb1-4a18-9a73-073df3acaba2",
+                "TimeStamp": "2019-04-10T12:32:17+08:00",
+                "Name": "沖刷深度",
+                "FullName": "土庫 005-200cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "53dec2ec-8d5c-432c-a6bb-05f5195fdfe1",
+                "TimeStamp": "2019-04-10T12:32:20+08:00",
+                "Name": "沖刷深度",
+                "FullName": "土庫 004-200cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "5a4179fe-9af8-4ef0-a4b1-9d1bb8837765",
+                "TimeStamp": "2019-04-10T14:38:06+08:00",
+                "Name": "沖刷深度",
+                "FullName": "土庫 003-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "93ce82e5-659e-4b47-ae87-fea50e9b3a83",
+                "TimeStamp": "2019-04-10T14:37:58+08:00",
+                "Name": "沖刷深度",
+                "FullName": "土庫 002-200cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "ce8dc618-2471-4d91-8df8-2e822e2f0cdb",
+                "TimeStamp": "2019-04-10T12:31:54+08:00",
+                "Name": "沖刷深度",
+                "FullName": "土庫 006-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "0df22575-5898-4421-a5de-fe8a1c06e208",
+        "StationId": "3132017CO0018",
+        "Name": "舊南勢堤防基地台",
+        "CountyCode": "10013",
+        "CountyName": "臺灣省屏東縣",
+        "TownCode": "10013110",
+        "TownName": "高樹鄉",
+        "Latitude": 22.7758,
+        "Longtiude": 120.5743,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "110a0780-096a-4a3c-8197-5b0672f57a24",
+                "TimeStamp": "2019-03-29T15:01:17+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊南勢 002-400cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "1759fe67-7792-4eb9-bf8b-1abf173aa2fb",
+                "TimeStamp": "2019-03-29T15:37:39+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊南勢 001-400cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "1da4c3cb-aaf6-4195-99a2-ad9c1aeff655",
+                "TimeStamp": "2019-03-30T15:28:05+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊南勢 002-200cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "45f70db3-b397-4dcd-8152-cf6f5a4eb38b",
+                "TimeStamp": "2021-07-29T22:09:03+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊南勢 003-100cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "5444b8d2-3c2d-4e2a-bbbd-845e6f97463d",
+                "TimeStamp": "2021-05-24T02:14:22+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊南勢 003-200cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "bbac1535-8ae7-474b-9c88-f292aa7e18cb",
+                "TimeStamp": "2021-04-27T17:28:47+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊南勢 001-200cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "cc7602fa-f8a4-4d08-9866-51994a9381a3",
+                "TimeStamp": "2019-04-14T20:49:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊南勢 002-100cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "f0d26d1c-7810-47fb-bfca-34e60d54a4cb",
+                "TimeStamp": "2019-08-14T18:08:52+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊南勢 001-100cm 沖出深度&#40;預警&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "237e61d2-1b45-4295-8c98-bbcff696fcca",
+        "StationId": "3132017CO0013",
+        "Name": "舊寮護岸基地台",
+        "CountyCode": "10013",
+        "CountyName": "臺灣省屏東縣",
+        "TownCode": "10013110",
+        "TownName": "高樹鄉",
+        "Latitude": 22.8781,
+        "Longtiude": 120.636,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "2dcee553-fa32-474f-aa04-94baaaa6097d",
+                "TimeStamp": "2019-07-13T10:11:50+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊寮 003-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "600ccd7d-50e0-442e-8897-dd68b0cfb96c",
+                "TimeStamp": "2019-04-03T10:04:16+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊寮 005-300cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "61d69d5c-f44c-4fee-87e1-633a710d4e1c",
+                "TimeStamp": "2019-04-09T16:51:08+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊寮 001-400cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "a4b6af0a-0d4e-4359-878d-e70d7f90fc31",
+                "TimeStamp": "2019-04-09T16:22:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊寮 004-400cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "b733b825-8ec9-42f2-93ef-d6d017a158f1",
+                "TimeStamp": "2021-07-29T12:13:37+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊寮 006-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "d06e6071-4652-4454-8ce5-46f9baa55bb0",
+                "TimeStamp": "2019-04-03T11:08:47+08:00",
+                "Name": "沖刷深度",
+                "FullName": "舊寮 002-300cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "5eee78ed-874c-4345-bdb6-3fb353b74b9f",
+        "StationId": "3132017CO0011",
+        "Name": "林園堤防基地台",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000130",
+        "TownName": "林園區",
+        "Latitude": 22.5149,
+        "Longtiude": 120.4125,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "39df43e3-7591-4d54-9ef7-3097dcc1085d",
+                "TimeStamp": "2023-09-06T14:31:45+08:00",
+                "Name": "沖刷深度",
+                "FullName": "林園 011-200cm 沖出深度&#40;警戒&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "59f12a76-2e97-4bf8-b9f9-42aadf6c95b7",
+                "TimeStamp": "2023-09-06T14:31:47+08:00",
+                "Name": "沖刷深度",
+                "FullName": "林園 011-400cm 沖出深度&#40;危險&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "a902dcf8-4238-40ce-9e61-d054050b57dc",
+                "TimeStamp": "2023-09-06T14:31:43+08:00",
+                "Name": "沖刷深度",
+                "FullName": "林園 011-100cm 沖出深度&#40;預警&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "b43b70b1-0943-44d3-a738-f26858764354",
+                "TimeStamp": "2019-04-02T16:39:07+08:00",
+                "Name": "沖刷深度",
+                "FullName": "林園 002-400cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "d0a96117-e331-4f52-ad1e-1c4ed8d724b7",
+                "TimeStamp": "2019-04-02T16:56:42+08:00",
+                "Name": "沖刷深度",
+                "FullName": "林園 002-100cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "fc39f705-e801-4e0b-9656-e788fd0bb35a",
+                "TimeStamp": "2019-04-02T16:20:42+08:00",
+                "Name": "沖刷深度",
+                "FullName": "林園 002-200cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "2d80b736-a114-4953-b7de-a8bef345b413",
+        "StationId": "3132017CO0012",
+        "Name": "北勢仔堤防下游基地台",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000300",
+        "TownName": "旗山區",
+        "Latitude": 22.8659,
+        "Longtiude": 120.4741,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "320892cc-9608-4ad6-9427-0a995350a615",
+                "TimeStamp": "2019-12-28T15:07:30+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔下游 002-100cm 沖出深度&#40;警戒&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "52824a80-d42c-4798-b3da-84990aa30312",
+                "TimeStamp": "2019-04-17T16:57:20+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔下游 001-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "67063d78-47db-4907-8767-8e8157706e45",
+                "TimeStamp": "2019-04-17T16:55:59+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔下游 001-100cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "b45dda0d-c46a-4898-91ce-94453c76354b",
+                "TimeStamp": "2019-05-09T01:25:26+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔下游 001-50cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "da21832b-fe8f-4d56-94ad-16edb2273baa",
+                "TimeStamp": "2023-09-06T14:31:49+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔下游 002-50cm 沖出深度&#40;埋回&#41;&#40;預警&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "f2d78be4-c12e-4fc4-b65b-a3af9826c9aa",
+                "TimeStamp": "2019-04-02T13:16:13+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔下游 002-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "5581a58f-4f2a-4239-9235-29f28b807159",
+        "StationId": "3132017CO0019",
+        "Name": "北勢仔堤防中游基地台",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000300",
+        "TownName": "旗山區",
+        "Latitude": 22.8708,
+        "Longtiude": 120.4773,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "16e10b50-ff4d-4aa2-8cef-48e87ab0c692",
+                "TimeStamp": "2019-05-18T10:07:54+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔中游 001-50cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "50500211-f69e-41fb-8c7b-a36a12a28c8d",
+                "TimeStamp": "2019-05-18T00:23:17+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔中游 002-50cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "62d14266-210f-4431-8e62-d7963103ef89",
+                "TimeStamp": "2019-04-02T12:01:03+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔中游 001-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "a363caae-c234-476c-b59b-3455c7d8670f",
+                "TimeStamp": "2019-04-02T12:29:45+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔中游 002-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "bf6eacbb-cd7b-4f53-821a-661244bc2b4f",
+                "TimeStamp": "2019-04-29T05:03:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔中游 001-100cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "fe8a70ca-a5c8-45d7-ad02-b17312a03516",
+                "TimeStamp": "2019-04-02T12:29:43+08:00",
+                "Name": "沖刷深度",
+                "FullName": "北勢仔中游 002-100cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "69859212-48fd-45ea-b905-639287eddf4d",
+        "StationId": "3132017CO0014",
+        "Name": "龜山堤防基地台",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000310",
+        "TownName": "美濃區",
+        "Latitude": 22.8456,
+        "Longtiude": 120.5681,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "616aff40-d1bf-48f1-9e2b-ea6ab322dfab",
+                "TimeStamp": "2019-04-02T10:01:26+08:00",
+                "Name": "沖刷深度",
+                "FullName": "龜山 001-200cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "6f10e390-8be0-4b31-99ca-382d7994e047",
+                "TimeStamp": "2019-04-25T10:43:31+08:00",
+                "Name": "沖刷深度",
+                "FullName": "龜山 001-100cm 沖出深度(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "70410e41-31c2-45f3-b638-b1babfa672b2",
+                "TimeStamp": "2019-04-02T10:36:32+08:00",
+                "Name": "沖刷深度",
+                "FullName": "龜山 002-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "bba99755-ffba-46d5-8056-a0ae059154b2",
+                "TimeStamp": "2023-09-06T14:31:56+08:00",
+                "Name": "沖刷深度",
+                "FullName": "龜山 022-50cm 沖出深度(埋回)(預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "ce1efef7-73d6-48fa-9066-5b58857f025e",
+                "TimeStamp": "2019-04-02T09:50:53+08:00",
+                "Name": "沖刷深度",
+                "FullName": "龜山 001-400cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "d9053232-cac5-438d-a64f-9620b69b68c9",
+                "TimeStamp": "2019-04-02T10:36:29+08:00",
+                "Name": "沖刷深度",
+                "FullName": "龜山 002-100cm 沖出深度(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "849f51e3-d5b1-4fcd-a100-fd61c9326c93",
+        "StationId": "3132017CO0016",
+        "Name": "濟公廟護岸基地台",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000320",
+        "TownName": "六龜區",
+        "Latitude": 22.9798,
+        "Longtiude": 120.6433,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "9055f9a1-f140-4b3f-aaf5-86d7e769d87a",
+                "TimeStamp": "2019-08-17T00:34:44+08:00",
+                "Name": "沖刷深度",
+                "FullName": "濟公廟 011-200cm 沖出深度&#40;埋回&#41;&#40;預警&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "977fb84e-b91e-4605-a34e-c0f7786a56c0",
+                "TimeStamp": "2019-04-16T17:38:01+08:00",
+                "Name": "沖刷深度",
+                "FullName": "濟公廟 006-200cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "a317dae0-8542-4a33-a51b-cb0e4cce96b3",
+                "TimeStamp": "2023-09-06T14:31:41+08:00",
+                "Name": "沖刷深度",
+                "FullName": "濟公廟015-200cm沖出深度&#40;埋回&#41;&#40;警戒&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "be3a72bd-5da1-432a-82ae-9ffbb8502963",
+                "TimeStamp": "2023-09-06T14:31:54+08:00",
+                "Name": "沖刷深度",
+                "FullName": "濟公廟 022-200cm 沖出深度(埋回)(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "9d9e17ca-8586-4900-ae10-faaf25a462a3",
+        "StationId": "3132017CO0015",
+        "Name": "六龜堤防基地台",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000320",
+        "TownName": "六龜區",
+        "Latitude": 23.0053,
+        "Longtiude": 120.6365,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "13ff08cd-38ab-45d9-b969-090a54ea97ce",
+                "TimeStamp": "2023-09-06T14:31:50+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六龜 021-100cm 沖出深度(埋回) (預警)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "4508f42a-60e2-449b-9a7d-84af34d39a46",
+                "TimeStamp": "2019-04-17T15:07:58+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六龜 002-400cm 沖出深度(危險)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "996e7932-53fb-4f6d-a511-e48184d83a72",
+                "TimeStamp": "2023-09-06T14:31:58+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六龜 022-200cm沖出深度&#40;埋回&#41;&#40;警戒&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "9a3187bd-0731-4189-a1b7-7801389a0d97",
+                "TimeStamp": "2023-07-28T15:18:13+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六龜 022-100cm沖出深度&#40;埋回&#41;&#40;預警&#41;",
+                "SIUnit": "m",
+                "Value": 1.0
+            },
+            {
+                "IoWPhysicalQuantityId": "cec32790-7f60-4b12-82b5-f2e9324be3c3",
+                "TimeStamp": "2023-09-06T14:31:52+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六龜 021-200cm 沖出深度(埋回)(警戒)",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "ed5a226e-8349-448e-9e57-6ed9d900393f",
+                "TimeStamp": "2019-04-17T14:10:07+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六龜 001-400cm 沖出深度&#40;危險&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "21a51cbc-dbd5-4f53-a885-c707e4102eb8",
+        "StationId": "3132013RVK255",
+        "Name": "豐洲堤防沖刷粒子&#40;K2_55&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.279654,
+        "Longtiude": 120.71653,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "61f53f92-58d2-4d09-9473-826010964904",
+                "TimeStamp": "2023-09-06T14:32:35+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K2_55&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "3b56c71b-3d70-466f-94b6-b97d51bd7e59",
+        "StationId": "3132013RVC430",
+        "Name": "埤豐護岸沖刷粒子(C4_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.278955,
+        "Longtiude": 120.76037,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "03d92c95-54e5-49ef-ad3f-a12bae09f4cd",
+                "TimeStamp": "2023-09-06T14:31:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "埤豐護岸沖刷深度(C4_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "3cd0d1b1-b3b3-44cc-be3c-71b46710cb3a",
+        "StationId": "3132013RVK7200",
+        "Name": "豐洲堤防沖刷粒子(K7_200)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.281029,
+        "Longtiude": 120.71507,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "31919aa0-7fd3-4b20-82df-558d9f889133",
+                "TimeStamp": "2023-09-06T14:32:51+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K7_200&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "423a7460-9042-4d01-946d-72ab5155e42b",
+        "StationId": "3132013RVC530",
+        "Name": "埤豐護岸沖刷粒子(C5_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.278984,
+        "Longtiude": 120.75993,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "806a6bf3-3e76-4ae1-b5de-788de3f73f4d",
+                "TimeStamp": "2023-09-06T14:31:59+08:00",
+                "Name": "沖刷深度",
+                "FullName": "埤豐護岸沖刷深度(C5_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "495d37e4-d246-487a-bfc0-197b14415b31",
+        "StationId": "3132013RVK4145",
+        "Name": "豐洲堤防沖刷粒子&#40;K4_145&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.280508,
+        "Longtiude": 120.71358,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "7d0c0563-e129-4ab0-b3ba-e5910d7853f1",
+                "TimeStamp": "2023-09-06T14:32:44+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度(K4_145)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "6cf69fa1-5cf2-4e9b-b941-e0d4876a838c",
+        "StationId": "3132013RVK1145",
+        "Name": "豐洲堤防沖刷粒子&#40;K1_145&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.280445,
+        "Longtiude": 120.71801,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0b3f30c6-49fa-4dce-8663-8f07a01a8fda",
+                "TimeStamp": "2023-09-06T14:32:33+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K1_145&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "6d5e5325-bd41-4e08-8610-654680d3a315",
+        "StationId": "3132013RVK2145",
+        "Name": "豐洲堤防沖刷粒子&#40;K2_145&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.280466,
+        "Longtiude": 120.71653,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "30e3ccda-2fd3-4618-8594-062803262d16",
+                "TimeStamp": "2023-09-06T14:32:37+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K2_145&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "7a2375be-bdfc-4e8f-82dd-00fd6251428c",
+        "StationId": "3132013RVC330",
+        "Name": "埤豐護岸沖刷粒子(C3_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.278831,
+        "Longtiude": 120.76049,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "c857b5f1-e8db-4bc8-aafd-7d4bbbee0d4e",
+                "TimeStamp": "2023-09-06T14:31:51+08:00",
+                "Name": "沖刷深度",
+                "FullName": "埤豐護岸沖刷深度(C3_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "90c7b43d-cdfd-44b6-b335-1079ca2974d6",
+        "StationId": "3132013RVK355",
+        "Name": "豐洲堤防沖刷粒子&#40;K3_55&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.279673,
+        "Longtiude": 120.71505,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ce5d9034-6f34-4d15-b036-e7166ecde6d9",
+                "TimeStamp": "2023-09-06T14:32:38+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K3_55&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a88921eb-80cc-4655-9c6a-c6a3ed8cad36",
+        "StationId": "3132013RVK3145",
+        "Name": "豐洲堤防沖刷粒子&#40;K3_145&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.280468,
+        "Longtiude": 120.71505,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "9310a2ad-4517-4c40-8bbc-e1185193e80b",
+                "TimeStamp": "2023-09-06T14:32:40+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K3_145&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b4e3d50d-4248-4aba-a84e-e0ad35d8ebb8",
+        "StationId": "3132013RVK155",
+        "Name": "豐洲堤防沖刷粒子&#40;K1_55&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.279633,
+        "Longtiude": 120.71801,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "3a14523d-6585-4b47-a790-82cb1eceb844",
+                "TimeStamp": "2023-09-06T14:32:31+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K1_55&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "dcfedbe1-67f1-4cb0-b46b-0ebe31a78fe9",
+        "StationId": "3132013RVK6200",
+        "Name": "豐洲堤防沖刷粒子&#40;K6_200&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.28101,
+        "Longtiude": 120.71655,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "821c26fe-55c0-49db-828f-876ba8bde986",
+                "TimeStamp": "2023-09-06T14:32:50+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K6_200&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e2250009-74f0-466d-be68-fa6e050d8e75",
+        "StationId": "3132013RVK455",
+        "Name": "豐洲堤防沖刷粒子&#40;K4_55&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000090",
+        "TownName": "豐原區",
+        "Latitude": 24.279696,
+        "Longtiude": 120.71358,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "411b8358-6e50-4e6b-bd39-66105f8c219c",
+                "TimeStamp": "2023-09-06T14:32:42+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K4_55&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "34dbf736-9383-42d9-97a5-9860eff7c567",
+        "StationId": "3132013RVB220",
+        "Name": "東勢堤防沖刷粒子(B2_20)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.23785,
+        "Longtiude": 120.82712,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "efa5fdae-fa65-438e-b81f-126f5d3c2f09",
+                "TimeStamp": "2023-09-06T14:28:35+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B2_20)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "3842595c-fdf5-4202-bc50-7c9b8cbef5cd",
+        "StationId": "3132013RVB640",
+        "Name": "東勢堤防沖刷粒子(B6_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24861,
+        "Longtiude": 120.82584,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ac797d72-d1f0-40df-b297-ba260dadb9bd",
+                "TimeStamp": "2023-09-06T14:28:50+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B6_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "563cad46-b653-4b47-ab57-3990073778a9",
+        "StationId": "3132013RVB440",
+        "Name": "東勢堤防沖刷粒子(B4_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.2432,
+        "Longtiude": 120.82635,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "3b51c3e6-9f0b-4793-8cc1-7cd1030f934e",
+                "TimeStamp": "2023-09-06T14:28:43+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B4_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "7dc4ac80-8510-44db-accd-235d3af367e2",
+        "StationId": "3132013RVB380",
+        "Name": "東勢堤防沖刷粒子(B3_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24052,
+        "Longtiude": 120.82621,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "f0598c5d-55b3-4bb1-9ab2-b21754797afe",
+                "TimeStamp": "2023-09-06T14:28:41+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B3_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "9e4318bf-d6e6-4f2c-8cae-06aa7fbe180c",
+        "StationId": "3132013RVB480",
+        "Name": "東勢堤防沖刷粒子(B4_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24324,
+        "Longtiude": 120.82596,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "89313cf9-0834-4cef-b5f3-5bb038ac79cd",
+                "TimeStamp": "2023-09-06T14:28:44+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B4_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "c3ff2373-2453-4f6a-838e-663083117637",
+        "StationId": "3132013RVB258",
+        "Name": "東勢堤防沖刷粒子(B2_58)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.2378,
+        "Longtiude": 120.82658,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "d028afc0-4870-4e01-a3d1-0256400e5840",
+                "TimeStamp": "2023-09-06T14:28:37+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B2_58)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "c4ad8b59-d63b-4777-8a3b-0265a0a68a4b",
+        "StationId": "3132013RVB680",
+        "Name": "東勢堤防沖刷粒子(B6_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24854,
+        "Longtiude": 120.82539,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "57c2fbf2-2607-4cf3-802d-89ff9b2e20b4",
+                "TimeStamp": "2023-09-06T14:28:52+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B6_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ce0e838c-2f26-49e8-99a3-2ffe85f84364",
+        "StationId": "3132013RVB280",
+        "Name": "東勢堤防沖刷粒子(B2_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24339,
+        "Longtiude": 120.82642,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "a112e37a-9972-44a6-ab56-4e97c6fd812b",
+                "TimeStamp": "2023-09-06T14:31:30+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B2_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "dd714295-f69d-44d7-a460-74f0b0422b5a",
+        "StationId": "3132013RVB136",
+        "Name": "東勢堤防沖刷粒子(B1_36)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.23523,
+        "Longtiude": 120.82745,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0599728a-c080-4480-ace8-309814c35413",
+                "TimeStamp": "2023-09-06T14:28:31+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B1_36)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ed35a9e2-e6da-4b06-a781-c41c84471e53",
+        "StationId": "3132013RVB580",
+        "Name": "東勢堤防沖刷粒子(B5_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24595,
+        "Longtiude": 120.82568,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "f89dec54-92cf-4e1a-9b1c-2c840133c4fc",
+                "TimeStamp": "2023-09-06T14:28:48+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B5_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ed51553a-fe12-4566-81db-cf02c38d3d92",
+        "StationId": "3132013RVB180",
+        "Name": "東勢堤防沖刷粒子(B1_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.2352,
+        "Longtiude": 120.82725,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ece32ba5-d719-4ea4-8d0c-f75a7eac74c7",
+                "TimeStamp": "2023-09-06T14:28:34+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B1_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f8618071-0a96-49d5-8da8-5766c975cf19",
+        "StationId": "3132013RVB340",
+        "Name": "東勢堤防沖刷粒子(B3_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24055,
+        "Longtiude": 120.82661,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "2eeab852-5c80-4e3b-855b-0112746ff1de",
+                "TimeStamp": "2023-09-06T14:28:39+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B3_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "fad4ba48-4b2c-4bb0-b68f-b2a565cea324",
+        "StationId": "3132013RVB540",
+        "Name": "東勢堤防沖刷粒子(B5_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24599,
+        "Longtiude": 120.82602,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "32943349-0028-40fa-b2c4-2682b99f9a38",
+                "TimeStamp": "2023-09-06T14:28:46+08:00",
+                "Name": "沖刷深度",
+                "FullName": "東勢沖刷深度(B5_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "17c14d97-731b-4adc-9bf0-49b9cf666104",
+        "StationId": "3132013RVH30",
+        "Name": "六塊厝堤防沖刷粒子(H3_0)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32738,
+        "Longtiude": 120.59591,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "8fa3c042-4316-4e5d-a57c-bf25d9a1316a",
+                "TimeStamp": "2023-09-06T14:30:12+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H3_0)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "33a92d2d-5f93-4d06-a119-568b838f14fa",
+        "StationId": "3132013RVH350",
+        "Name": "六塊厝堤防沖刷粒子(H3_50)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32708,
+        "Longtiude": 120.5958,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "8c2ebcc3-8539-498d-893e-146fba5fe388",
+                "TimeStamp": "2023-09-06T14:30:14+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H3_50)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "46b8a45c-04c9-41b2-bc10-a3873e56cee6",
+        "StationId": "3132013RVH3100",
+        "Name": "六塊厝堤防沖刷粒子(H3_100)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32677,
+        "Longtiude": 120.59575,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0f141665-fc94-4c93-9a99-680dde1c95aa",
+                "TimeStamp": "2023-09-06T14:30:15+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H3_100)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "644554bc-c8b9-4be8-8999-365a0808e472",
+        "StationId": "3132013RVH4100",
+        "Name": "六塊厝堤防沖刷粒子(H4_100)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32777,
+        "Longtiude": 120.59152,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ec087565-1bb0-4a41-8d3a-6b3193c10bc0",
+                "TimeStamp": "2023-09-06T14:30:21+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H4_100)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "77e07e54-3292-48fc-b7ea-6cdb77d66229",
+        "StationId": "3132013RVH20",
+        "Name": "六塊厝堤防沖刷粒子(H2_0)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32686,
+        "Longtiude": 120.59802,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "b901daa2-0d18-410e-94ec-7517348451df",
+                "TimeStamp": "2023-09-06T14:30:06+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H2_0)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "7ee0801c-8e44-415d-9d6f-5c90efab579b",
+        "StationId": "3132013RVH40",
+        "Name": "六塊厝堤防沖刷粒子(H4_0)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32863,
+        "Longtiude": 120.59155,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ec1d2b94-4487-4df5-a7e5-97ea37a389db",
+                "TimeStamp": "2023-09-06T14:30:17+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H4_0)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a16fea4f-5ae5-42da-be54-7e8de4c23f25",
+        "StationId": "3132013RVH250",
+        "Name": "六塊厝堤防沖刷粒子(H2_50)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32652,
+        "Longtiude": 120.59797,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "1e18c8fa-6f44-4dd5-8b10-80e62a130c2f",
+                "TimeStamp": "2023-09-06T14:30:08+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H2_50)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b4340bf3-1388-49a4-8720-dddd3389bc4a",
+        "StationId": "3132013RVH1100",
+        "Name": "六塊厝堤防沖刷粒子(H1_100)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32602,
+        "Longtiude": 120.59902,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "c00976ba-28b8-447c-b147-35d0bc1dc38d",
+                "TimeStamp": "2023-09-06T14:30:05+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H1_100)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ca71245e-ad0b-407f-8896-69956c695787",
+        "StationId": "3132013RVH150",
+        "Name": "六塊厝堤防沖刷粒子(H1_50)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32636,
+        "Longtiude": 120.59913,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "e52eed76-e6d5-4895-bb0e-47a51c2018bd",
+                "TimeStamp": "2023-09-06T14:30:03+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H1_50)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e0ed512d-dd0e-4ce9-b552-54a01d6c87dd",
+        "StationId": "3132013RVH450",
+        "Name": "六塊厝堤防沖刷粒子(H4_50)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32816,
+        "Longtiude": 120.59152,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "f705088d-7fd3-4b08-8b3c-22cd40fb7f60",
+                "TimeStamp": "2023-09-06T14:30:19+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H4_50)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e1784354-6179-4bb2-8636-6bcd56098ed1",
+        "StationId": "3132013RVH10",
+        "Name": "六塊厝堤防沖刷粒子(H1_0)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.3265,
+        "Longtiude": 120.59927,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "db06fd89-41bf-4abd-b15d-f36b7ba031f7",
+                "TimeStamp": "2023-09-06T14:30:01+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H1_0)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "fe4aa1fc-70e3-4e83-98c8-f53f2a6413c4",
+        "StationId": "3132013RVH2100",
+        "Name": "六塊厝堤防沖刷粒子(H2_100)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000110",
+        "TownName": "大甲區",
+        "Latitude": 24.32625,
+        "Longtiude": 120.59783,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "8fba271f-ca45-41c8-91e1-ac47381ef3b2",
+                "TimeStamp": "2023-09-06T14:30:10+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H2_100)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "1c8efdd1-212a-4658-8cfa-26e887b7b2a8",
+        "StationId": "3132013RVI480",
+        "Name": "高美堤防沖刷粒子(I4_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32369,
+        "Longtiude": 120.56844,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "5765c213-e2b7-48cd-a231-d696bc438e09",
+                "TimeStamp": "2023-09-06T14:30:50+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I4_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "6ea9dbc9-1f4e-48a5-8473-a5ac0acaf9d6",
+        "StationId": "3132013RVI240",
+        "Name": "高美堤防沖刷粒子(I2_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32275,
+        "Longtiude": 120.57013,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "dce4cd40-03fb-44db-896d-c2a181383cdf",
+                "TimeStamp": "2023-09-06T14:30:32+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I2_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "74e763ee-74c1-48c2-a223-be3255c181d8",
+        "StationId": "3132013RVL1OUT",
+        "Name": "大甲溪客庄堤防0K+150外側沖刷粒子(L1_OUT)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.31427,
+        "Longtiude": 120.6069,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "3a7c7770-b2ca-42c8-8d28-b95e82fbbe87",
+                "TimeStamp": "2023-09-06T14:32:53+08:00",
+                "Name": "沖刷深度",
+                "FullName": "大甲溪客庄堤防0K+150外側沖刷深度(L1_OUT)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "813307c8-2d64-4a51-9e48-38f7517a2ee2",
+        "StationId": "3132013RVI580",
+        "Name": "高美堤防沖刷粒子(I5_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32388,
+        "Longtiude": 120.56747,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "bcfa2197-70db-41c9-8031-656935a0fe02",
+                "TimeStamp": "2023-09-06T14:30:57+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I5_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "995645fa-866b-4a69-927a-bcf5d06622b9",
+        "StationId": "3132013RVL3OUT",
+        "Name": "大甲溪客庄堤防0K+500外側沖刷粒子(L3_OUT)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.314793,
+        "Longtiude": 120.60351,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "79ec5d46-c878-4655-9c9c-88d44e4a52e3",
+                "TimeStamp": "2023-09-06T14:32:57+08:00",
+                "Name": "沖刷深度",
+                "FullName": "大甲溪客庄堤防0K+500外側沖刷深度(L3_OUT)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a0fea635-bf2a-4d45-8735-b46c9eef34da",
+        "StationId": "3132013RVI340",
+        "Name": "高美堤防沖刷粒子(I3_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32297,
+        "Longtiude": 120.56938,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "74991c62-6790-4545-a585-a4648b966a8e",
+                "TimeStamp": "2023-09-06T14:30:39+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I3_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "aeb5659e-2e81-40b8-bd41-c759299a64f7",
+        "StationId": "3132013RVI380",
+        "Name": "高美堤防沖刷粒子(I3_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32341,
+        "Longtiude": 120.56958,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "843433af-e98f-4222-9da4-f11c7fc561c7",
+                "TimeStamp": "2023-09-06T14:30:43+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I3_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "c7503aef-c740-438e-bb64-bd2495d82989",
+        "StationId": "3132013RVI540",
+        "Name": "高美堤防沖刷粒子(I5_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32352,
+        "Longtiude": 120.56733,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "eb9e9e69-88c1-4212-9303-3f78c3bd3289",
+                "TimeStamp": "2023-09-06T14:30:54+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I5_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ce4c177d-8aa2-4a7a-b3cb-44157bdb21cf",
+        "StationId": "3132013RVI180",
+        "Name": "高美堤防沖刷粒子(I1_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32288,
+        "Longtiude": 120.57144,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "caa4b366-5be9-4421-96ca-7b279d636d50",
+                "TimeStamp": "2023-09-06T14:30:30+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I1_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "de7c1381-5dfe-4b03-8bfd-26ca6b1deb84",
+        "StationId": "3132013RVI280",
+        "Name": "高美堤防沖刷粒子(I2_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32313,
+        "Longtiude": 120.57038,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "aa90bd42-51e9-49ea-8fe9-e2992569200c",
+                "TimeStamp": "2023-09-06T14:30:35+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I2_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e1158fd1-dff7-4759-962e-f20ad654812e",
+        "StationId": "3132013RVI140",
+        "Name": "高美堤防沖刷粒子(I1_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.32252,
+        "Longtiude": 120.57125,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "16dc63dc-eccf-4f51-92e8-4cb4490ed38a",
+                "TimeStamp": "2023-09-06T14:30:28+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I1_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e2123e51-b71c-40d2-8c3f-23948d503120",
+        "StationId": "3132013RVI440",
+        "Name": "高美堤防沖刷粒子(I4_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.3233,
+        "Longtiude": 120.56836,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "e4c24466-4ccd-4c6b-8d3b-26b1d981a56d",
+                "TimeStamp": "2023-09-06T14:30:46+08:00",
+                "Name": "沖刷深度",
+                "FullName": "高美沖刷深度(I4_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ece7af8f-a1fe-40a5-a4ac-46c3a5522cb2",
+        "StationId": "3132013RVL2OUT",
+        "Name": "大甲溪客庄堤防0K+300外側沖刷粒子(L2_OUT)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.314493,
+        "Longtiude": 120.60545,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "75b18af6-fec2-41d5-9a49-0c39f76046b6",
+                "TimeStamp": "2023-09-06T14:32:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "大甲溪客庄堤防0K+300外側沖刷深度(L2_OUT)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "2f18e403-e80e-465d-9eec-462bf3dda739",
+        "StationId": "3132013RVG540",
+        "Name": "正隆護岸沖刷粒子(G5_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28388,
+        "Longtiude": 120.72461,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "7d4de44a-e7d2-4f2a-bde9-d959413239b4",
+                "TimeStamp": "2023-09-06T14:29:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G5_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "34f98917-84e3-4295-b18b-c3ad5562cfed",
+        "StationId": "3132013RVG240",
+        "Name": "正隆護岸沖刷粒子(G2_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28455,
+        "Longtiude": 120.72741,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0d2616a9-ef7b-4bb6-bac9-5409e2ab3b66",
+                "TimeStamp": "2023-09-06T14:29:39+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G2_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "3cac47ff-3c01-43e0-9465-7059d198d61f",
+        "StationId": "3132013RVG140",
+        "Name": "正隆護岸沖刷粒子(G1_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28458,
+        "Longtiude": 120.72866,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "e43a2343-ac52-449d-9c68-94fe63f1bc8c",
+                "TimeStamp": "2023-09-06T14:29:33+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G1_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "56798e5d-e38b-486d-bb1f-2a27675afcf7",
+        "StationId": "3132013RVG440",
+        "Name": "正隆護岸沖刷粒子(G4_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.2843,
+        "Longtiude": 120.72563,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "8da2c3f5-f14e-4222-be2f-d0c0f2d303d9",
+                "TimeStamp": "2023-09-06T14:29:50+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G4_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "8b2145b2-a6aa-46b3-ac2a-10490b0d91c4",
+        "StationId": "3132013RVG480",
+        "Name": "正隆護岸沖刷粒子(G4_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28405,
+        "Longtiude": 120.72563,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "95c14c5e-61a0-474b-9d60-e099e0bab584",
+                "TimeStamp": "2023-09-06T14:29:52+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G4_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "91858794-defa-45ae-af89-ad6594bf2506",
+        "StationId": "3132013RVG280",
+        "Name": "正隆護岸沖刷粒子(G2_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28425,
+        "Longtiude": 120.72741,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "dcfcff93-f84f-417d-af05-84b6d8867de8",
+                "TimeStamp": "2023-09-06T14:29:41+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G2_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a232e853-7ed5-40e2-971f-a37699a7d910",
+        "StationId": "3132013RVG340",
+        "Name": "正隆護岸沖刷粒子(G3_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.2845,
+        "Longtiude": 120.72636,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "c550326b-484e-48db-98b4-3d3bb0a76b1f",
+                "TimeStamp": "2023-09-06T14:29:44+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G3_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b1b48e61-95b8-42a7-b865-376928bf6e42",
+        "StationId": "3132013RVG380",
+        "Name": "正隆護岸沖刷粒子(G3_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28419,
+        "Longtiude": 120.72641,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "2f3a8f9e-1bd7-45ee-b4bc-79559e179427",
+                "TimeStamp": "2023-09-06T14:29:46+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G3_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "becd2743-a214-4109-b5a9-c09a1962987b",
+        "StationId": "3132013RVG2120",
+        "Name": "正隆護岸沖刷粒子(G2_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.2838,
+        "Longtiude": 120.72747,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "cfe280ce-af90-4c0c-9050-0f6da63da341",
+                "TimeStamp": "2023-09-06T14:29:43+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G2_120)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "d0e6524f-dcaa-472d-bec4-ee5d483961b3",
+        "StationId": "3132013RVG180",
+        "Name": "正隆護岸沖刷粒子(G1_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28425,
+        "Longtiude": 120.72863,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "f34a2de4-d721-4576-bf34-8ce5fe7fda49",
+                "TimeStamp": "2023-09-06T14:29:35+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G1_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "d5d5e400-f9a0-4c5d-9dd1-2f1a0cea26ba",
+        "StationId": "3132013RVG4120",
+        "Name": "正隆護岸沖刷粒子(G4_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28369,
+        "Longtiude": 120.72566,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "5d3a04c5-e31f-4d0d-b6ae-42c6162bfc69",
+                "TimeStamp": "2023-09-06T14:29:54+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G4_120)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ee40311e-e2e8-444a-b885-60bfae03f28b",
+        "StationId": "3132013RVG5120",
+        "Name": "正隆護岸沖刷粒子(G5_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28325,
+        "Longtiude": 120.7248,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "042f992a-0361-48a9-96f1-75f9961f5b53",
+                "TimeStamp": "2023-09-06T14:29:59+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G5_120)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f8972676-8b5c-429f-853e-75ae4b4f3b78",
+        "StationId": "3132013RVG3120",
+        "Name": "正隆護岸沖刷粒子(G3_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.2838,
+        "Longtiude": 120.72652,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "89eaa0bf-2db3-43ca-b2e2-b6ef3d0a6029",
+                "TimeStamp": "2023-09-06T14:29:48+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G3_120)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f8e308f3-3bb8-4c02-9f39-8c35ce5ec25a",
+        "StationId": "3132013RVG580",
+        "Name": "正隆護岸沖刷粒子(G5_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28358,
+        "Longtiude": 120.72475,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "a129cd00-f3d1-4ef8-a4eb-61d53494cb15",
+                "TimeStamp": "2023-09-06T14:29:57+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G5_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "fbbc55ae-761a-4b91-9233-8bc6139e4f62",
+        "StationId": "3132013RVG1120",
+        "Name": "正隆護岸沖刷粒子(G1_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.28388,
+        "Longtiude": 120.72861,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "9f8eec7c-edd6-41d5-a9b1-cbc61e96b455",
+                "TimeStamp": "2023-09-06T14:29:37+08:00",
+                "Name": "沖刷深度",
+                "FullName": "正隆沖刷深度(G1_120)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "096dd641-3952-495f-a659-f454dfe24d64",
+        "StationId": "3132013RVD280",
+        "Name": "新庄子護岸沖刷粒子(D2_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29379,
+        "Longtiude": 120.648,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "f7c83894-f4d8-49fa-813c-a0a20a6a6568",
+                "TimeStamp": "2023-09-06T14:29:01+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D2_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "13322bf3-1167-46aa-ae35-d60e2288580d",
+        "StationId": "3132013RVD240",
+        "Name": "新庄子護岸沖刷粒子(D2_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29353,
+        "Longtiude": 120.64772,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "05f81273-bc1b-4151-9127-3fbefd598614",
+                "TimeStamp": "2023-09-06T14:28:59+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D2_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "1993a110-7551-4acf-a55a-529327c8008a",
+        "StationId": "3132013RVD340",
+        "Name": "新庄子護岸沖刷粒子(D3_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29424,
+        "Longtiude": 120.64689,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "52d5e078-4184-4bd6-8b50-a2c57045e366",
+                "TimeStamp": "2023-09-06T14:29:04+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D3_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "2f0a05c1-8768-4a6c-bdee-fe838146f219",
+        "StationId": "3132013RVD140",
+        "Name": "新庄子護岸沖刷粒子(D1_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29186,
+        "Longtiude": 120.65019,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "d549a4aa-88b4-4cd2-b48b-666080134a82",
+                "TimeStamp": "2023-09-06T14:28:54+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D1_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "2f94ab34-6817-4c37-9b99-2c7914dc0cfa",
+        "StationId": "3132013RVD2120",
+        "Name": "新庄子護岸沖刷粒子(D2_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29406,
+        "Longtiude": 120.64827,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "96eda735-5153-4fd5-b79c-8f98a1ea538a",
+                "TimeStamp": "2023-09-06T14:29:03+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D2_120)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "4ba0f96f-5f77-4f42-99b2-e64853475f71",
+        "StationId": "3132013RVD1120",
+        "Name": "新庄子護岸沖刷粒子(D1_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29234,
+        "Longtiude": 120.6506,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0a622036-11d2-42a5-adcc-f2de4ec6e4bf",
+                "TimeStamp": "2023-09-06T14:28:57+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D1_120)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "53dc6b1b-5558-4341-99ff-f686b6fe18dd",
+        "StationId": "3132013RVD380",
+        "Name": "新庄子護岸沖刷粒子(D3_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29451,
+        "Longtiude": 120.64716,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "39123886-b0c0-4d51-ad0e-b008401436a3",
+                "TimeStamp": "2023-09-06T14:29:06+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D3_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "57c6af57-ba70-42a2-8ae8-ca83ea607a3a",
+        "StationId": "3132013RVK555",
+        "Name": "豐洲堤防沖刷粒子&#40;K5_55&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.279741,
+        "Longtiude": 120.7121,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "c9b77c16-6c2b-4d43-8a26-372b7ca30e21",
+                "TimeStamp": "2023-09-06T14:32:46+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K5_55&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "631e7920-81a0-4d76-a1f7-4534820839cc",
+        "StationId": "3132013RVD4120",
+        "Name": "新庄子護岸沖刷粒子(D4_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29538,
+        "Longtiude": 120.64677,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "b165d8f9-dfd5-42b9-94ac-37c424e35b17",
+                "TimeStamp": "2023-09-06T14:31:41+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D4_120)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b09a4db6-de43-4ebf-8371-dadea5c7ed09",
+        "StationId": "3132013RVD3120",
+        "Name": "新庄子護岸沖刷粒子(D3_120)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29473,
+        "Longtiude": 120.6474,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "dc6e4a48-9148-474e-b5e3-78b187eeca3d",
+                "TimeStamp": "2023-09-06T14:29:08+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度&#40;D3_120&#41;",
+                "SIUnit": "m",
+                "Value": 0.8
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b94db715-6614-403f-a057-13c0fb6a84d1",
+        "StationId": "3132013RVK5145",
+        "Name": "豐洲堤防沖刷粒子&#40;K5_145&#41;",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.280554,
+        "Longtiude": 120.7121,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "29142f48-2700-4e72-bb9c-193949395e66",
+                "TimeStamp": "2023-09-06T14:32:48+08:00",
+                "Name": "沖刷深度",
+                "FullName": "豐洲堤防沖刷深度&#40;K5_145&#41;",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "c923b470-346d-490c-89d2-bce88e56b83a",
+        "StationId": "3132013RVD480",
+        "Name": "新庄子護岸沖刷粒子(D4_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29505,
+        "Longtiude": 120.64647,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "e5110441-0857-4512-806b-fe684eeeaa85",
+                "TimeStamp": "2023-09-06T14:31:37+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D4_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "d632c351-7d3c-4692-8995-393fe0b66b4c",
+        "StationId": "3132013RVD440",
+        "Name": "新庄子護岸沖刷粒子(D4_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.2948,
+        "Longtiude": 120.64627,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "173ae141-100f-40cb-af1d-2be1128566dc",
+                "TimeStamp": "2023-09-06T14:31:33+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D4_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ea3d0dbe-9897-4f4d-88a8-e5ac8824df61",
+        "StationId": "3132013RVD180",
+        "Name": "新庄子護岸沖刷粒子(D1_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.2921,
+        "Longtiude": 120.65036,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "056d076e-fadd-4215-8b76-774c95bc019b",
+                "TimeStamp": "2023-09-06T14:28:55+08:00",
+                "Name": "沖刷深度",
+                "FullName": "新庄子沖刷深度(D1_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "0ce704bd-b49c-4f22-930e-e9e1069c5cd4",
+        "StationId": "3132013RVE260",
+        "Name": "白毛台護岸沖刷粒子(E2_60)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.16655,
+        "Longtiude": 120.8898,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ad462b1c-e1c7-4aaa-bcd8-9928b1b5f9a8",
+                "TimeStamp": "2023-09-06T14:29:15+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E2_60)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "21b5168d-92ca-4669-9352-e0f4c491c00d",
+        "StationId": "3132013RVE130",
+        "Name": "白毛台護岸沖刷粒子(E1_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.16608,
+        "Longtiude": 120.89161,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "06fcc04b-b48c-4079-8e01-1f57b94ed677",
+                "TimeStamp": "2023-09-06T14:29:10+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E1_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "30a6af3d-b6cf-4b38-94cd-d4f4e89e6ede",
+        "StationId": "3132013RVE160",
+        "Name": "白毛台護岸沖刷粒子(E1_60)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.1663,
+        "Longtiude": 120.89163,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "009598aa-77df-4fec-9cbd-57428ac7e651",
+                "TimeStamp": "2023-09-06T14:29:12+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E1_60)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "3c3565b6-f0b1-4e90-b53b-044eb10fb061",
+        "StationId": "3132013RVE430",
+        "Name": "白毛台護岸沖刷粒子(E4_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.16586,
+        "Longtiude": 120.88594,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "2335ef5d-1926-4ff4-8350-5538a1b65279",
+                "TimeStamp": "2023-09-06T14:29:21+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E4_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "44d66659-a5df-4458-8395-9837f58f3652",
+        "StationId": "3132013RVE560",
+        "Name": "白毛台護岸沖刷粒子(E5_60)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.1655,
+        "Longtiude": 120.88405,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ebb381a0-1f8b-45bc-a3c7-4562c3a37f1b",
+                "TimeStamp": "2023-09-06T14:29:26+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E5_60)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "91a1426a-b624-4e38-a142-dd7a95db4fde",
+        "StationId": "3132013RVE460",
+        "Name": "白毛台護岸沖刷粒子(E4_60)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.16619,
+        "Longtiude": 120.886,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "913d4be1-e6df-4321-b91b-daf452a14f88",
+                "TimeStamp": "2023-09-06T14:29:23+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E4_60)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "c0fddee0-d9cb-46ae-adbf-6ea6646f5ea9",
+        "StationId": "3132013RVE360",
+        "Name": "白毛台護岸沖刷粒子(E3_60)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.16663,
+        "Longtiude": 120.88794,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "6721b7d6-409f-4a8a-9a1f-9a58b667d14b",
+                "TimeStamp": "2023-09-06T14:29:19+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E3_60)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e317b5e6-1102-46e7-96a3-e76199c51e0b",
+        "StationId": "3132013RVE330",
+        "Name": "白毛台護岸沖刷粒子(E3_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.16638,
+        "Longtiude": 120.88797,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "e1cfee3a-df0b-4ec0-b0e7-eb854f60eb4b",
+                "TimeStamp": "2023-09-06T14:29:17+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E3_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e931c138-2ee0-4b7a-b61c-a8e04a308da9",
+        "StationId": "3132013RVE230",
+        "Name": "白毛台護岸沖刷粒子(E2_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.1663,
+        "Longtiude": 120.88986,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "9213f9dc-2db6-4be4-84d4-50c4e8951fea",
+                "TimeStamp": "2023-09-06T14:29:14+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E2_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f8b969b8-19fa-412f-ba58-64d06d6b2516",
+        "StationId": "3132013RVE530",
+        "Name": "白毛台護岸沖刷粒子(E5_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.16536,
+        "Longtiude": 120.88402,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "b7eb82e1-f7be-41ad-91a9-470f5f687413",
+                "TimeStamp": "2023-09-06T14:29:24+08:00",
+                "Name": "沖刷深度",
+                "FullName": "白毛台沖刷深度(E5_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "02334405-dc6f-4f29-8d7c-6b66e00b489b",
+        "StationId": "3132013RVC230",
+        "Name": "埤豐護岸沖刷粒子(C2_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.27884,
+        "Longtiude": 120.76096,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "99c8859a-6642-44b4-85ea-fa38dcff69a2",
+                "TimeStamp": "2023-09-06T14:31:48+08:00",
+                "Name": "沖刷深度",
+                "FullName": "埤豐護岸沖刷深度(C2_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "10fddc02-865d-41f9-b2a6-9265821ba650",
+        "StationId": "3132013RVF210",
+        "Name": "梅子護岸沖刷粒子(F2_10)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.27705,
+        "Longtiude": 120.81019,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "57b57691-938e-42f2-a89e-c809ec8c4ff9",
+                "TimeStamp": "2023-09-06T14:29:32+08:00",
+                "Name": "沖刷深度",
+                "FullName": "梅子沖刷深度(F2_10)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "217b36f8-02e7-4f9a-9e12-cac7083c67ac",
+        "StationId": "3132013RVF110",
+        "Name": "梅子護岸沖刷粒子(F1_10)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.27705,
+        "Longtiude": 120.81052,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "50a0ddf0-ee21-4af7-993c-a8870607fc8c",
+                "TimeStamp": "2023-09-06T14:29:28+08:00",
+                "Name": "沖刷深度",
+                "FullName": "梅子沖刷深度(F1_10)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "6471bad2-61d2-4dd4-a6de-bcf23e880591",
+        "StationId": "3132013RVF130",
+        "Name": "梅子護岸沖刷粒子(F1_30)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.27713,
+        "Longtiude": 120.81052,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "25ebe10d-e7c2-419b-8668-499d50eb001b",
+                "TimeStamp": "2023-09-06T14:29:30+08:00",
+                "Name": "沖刷深度",
+                "FullName": "梅子沖刷深度(F1_30)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "6d02dfc9-4c9a-4a56-b586-36e18639a462",
+        "StationId": "3132013RVC120",
+        "Name": "埤豐護岸沖刷粒子(C1_20)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.278793,
+        "Longtiude": 120.76094,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0a77f0b8-798c-433a-a514-19044f1f6519",
+                "TimeStamp": "2023-09-06T14:31:44+08:00",
+                "Name": "沖刷深度",
+                "FullName": "埤豐護岸沖刷深度(C1_20)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "2c61dc15-1088-41ff-afb7-cc819bf0e8f5",
+        "StationId": "3132013RVH50",
+        "Name": "六塊厝堤防沖刷粒子(H5_0)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000220",
+        "TownName": "大安區",
+        "Latitude": 24.3293,
+        "Longtiude": 120.589,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "d4380e46-e902-416c-8a57-0ddae8fdb69f",
+                "TimeStamp": "2023-09-06T14:30:23+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H5_0)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "80e4b8d7-73e3-4263-9ec5-343ec9760562",
+        "StationId": "3132013RVH5100",
+        "Name": "六塊厝堤防沖刷粒子(H5_100)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000220",
+        "TownName": "大安區",
+        "Latitude": 24.32855,
+        "Longtiude": 120.58872,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "7c089da7-7e1d-45cd-8b31-9fe28367233a",
+                "TimeStamp": "2023-09-06T14:30:26+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H5_100)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ffab3504-76b7-4b05-af33-8d50ee76b7fe",
+        "StationId": "3132013RVH550",
+        "Name": "六塊厝堤防沖刷粒子(H5_50)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000220",
+        "TownName": "大安區",
+        "Latitude": 24.32888,
+        "Longtiude": 120.58888,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "8f86ae5e-a5d4-40e0-9b8a-5df5ae132dcf",
+                "TimeStamp": "2023-09-06T14:30:25+08:00",
+                "Name": "沖刷深度",
+                "FullName": "六塊厝沖刷深度(H5_50)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "00fd012c-4a7e-45b8-a48c-1329b6dbb530",
+        "StationId": "3132013RVA140",
+        "Name": "南勢堤防沖刷粒子(A1_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16747,
+        "Longtiude": 120.89412,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "3ec3f32f-ca05-4231-9bc8-856a880303eb",
+                "TimeStamp": "2023-09-06T14:31:01+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A1_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "32c2d9ee-6eb8-443a-a898-344d93173b93",
+        "StationId": "3132013RVA325",
+        "Name": "南勢堤防沖刷粒子(A3_25)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16851,
+        "Longtiude": 120.89131,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0b9aec23-fa11-4c4d-b9c9-c16ac54f754d",
+                "TimeStamp": "2023-09-06T14:28:26+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A3_25)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "32e14e21-73aa-4328-87a3-21a44c916491",
+        "StationId": "3132013RVA114",
+        "Name": "南勢堤防沖刷粒子(A1_14)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16762,
+        "Longtiude": 120.89421,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "110bd13d-f47f-4d06-a254-930bc65872e7",
+                "TimeStamp": "2023-09-06T14:28:16+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A1_14)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "405c12c2-194d-4f66-8201-b38aaf3ccc67",
+        "StationId": "3132013RVA380",
+        "Name": "南勢堤防沖刷粒子(A3_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16815,
+        "Longtiude": 120.89117,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "a3b40a03-d734-4d9d-a1f0-7a8d97eafe45",
+                "TimeStamp": "2023-09-06T14:31:19+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A3_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "42a36ecb-7549-4b3f-913c-7d74f8d3dfbd",
+        "StationId": "3132013RVA180",
+        "Name": "南勢堤防沖刷粒子(A1_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16725,
+        "Longtiude": 120.89399,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "e49a9c35-9ebf-49a9-a335-a1fab625b64c",
+                "TimeStamp": "2023-09-06T14:31:04+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A1_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "52ee2c80-9f7b-4c92-9ade-0c027c9ab29b",
+        "StationId": "3132013RVA480",
+        "Name": "南勢堤防沖刷粒子(A4_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16841,
+        "Longtiude": 120.88926,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "c6e17506-f38a-41db-ad6a-4a2c613158f2",
+                "TimeStamp": "2023-09-06T14:31:26+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A4_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "7466ab19-42ca-4d32-bf2f-eaeba2beb70c",
+        "StationId": "3132013RVA314",
+        "Name": "南勢堤防沖刷粒子(A3_14)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16858,
+        "Longtiude": 120.89133,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "7c628b36-ece9-4aef-9383-e98fdd3762da",
+                "TimeStamp": "2023-09-06T14:28:24+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A3_14)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "7d1249fc-7eab-4942-8b07-d1c2cf910380",
+        "StationId": "3132013RVA214",
+        "Name": "南勢堤防沖刷粒子(A2_14)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16804,
+        "Longtiude": 120.89328,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "c4bf9c10-4665-4285-815a-7b93e072dc52",
+                "TimeStamp": "2023-09-06T14:28:20+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A2_14)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "83e11fc8-d6f9-4302-9fcc-8d558a86b50a",
+        "StationId": "3132013RVA280",
+        "Name": "南勢堤防沖刷粒子(A2_80)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.1677,
+        "Longtiude": 120.8931,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "752a4e12-573c-4b88-99db-6a26bb0ebc63",
+                "TimeStamp": "2023-09-06T14:31:12+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A2_80)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "9cbf8791-4847-42fe-ba1e-19663d87ff25",
+        "StationId": "3132013RVA340",
+        "Name": "南勢堤防沖刷粒子(A3_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16841,
+        "Longtiude": 120.89127,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "6a50e8ed-b840-4b53-a255-4575629ca735",
+                "TimeStamp": "2023-09-06T14:31:15+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A3_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a7cce932-082c-4ea6-82e3-6a85ceaed4ba",
+        "StationId": "3132013RVA414",
+        "Name": "南勢堤防沖刷粒子(A4_14)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16886,
+        "Longtiude": 120.88945,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "9ef78782-17ce-4084-a68c-dec42937f81a",
+                "TimeStamp": "2023-09-06T14:28:28+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A4_14)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "c40a041b-733b-4cec-9374-1918162c222c",
+        "StationId": "3132013RVA125",
+        "Name": "南勢堤防沖刷粒子(A1_25)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16755,
+        "Longtiude": 120.89416,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "fab5a992-baee-41bd-9bb3-52b4c65a3c89",
+                "TimeStamp": "2023-09-06T14:28:18+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A1_25)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e9bcfc11-be76-49f1-a60a-c3a0c973ed23",
+        "StationId": "3132013RVA225",
+        "Name": "南勢堤防沖刷粒子(A2_25)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16799,
+        "Longtiude": 120.89326,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "85c6c75a-424b-4800-a03c-d4ab4a29711b",
+                "TimeStamp": "2023-09-06T14:28:22+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A2_25)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ed09e76f-8bfb-477d-9b6c-5f11a81caf52",
+        "StationId": "3132013RVA440",
+        "Name": "南勢堤防沖刷粒子(A4_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16867,
+        "Longtiude": 120.88937,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "219eb83e-5b40-46f1-91ab-e9cb49223a72",
+                "TimeStamp": "2023-09-06T14:31:23+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A4_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f09b692e-f430-4667-8ffe-05ce676e73d7",
+        "StationId": "3132013RVA240",
+        "Name": "南勢堤防沖刷粒子(A2_40)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16792,
+        "Longtiude": 120.89323,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "45ae827c-00c9-4d28-bdec-7c2856cdfa17",
+                "TimeStamp": "2023-09-06T14:31:08+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A2_40)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f1cc5782-5f44-4ce2-b81b-fe062380f335",
+        "StationId": "3132013RVA425",
+        "Name": "南勢堤防沖刷粒子(A4_25)",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16878,
+        "Longtiude": 120.88942,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "9003d62f-ffa1-4dea-9601-93215e68fb2a",
+                "TimeStamp": "2023-09-06T14:28:29+08:00",
+                "Name": "沖刷深度",
+                "FullName": "南勢沖刷深度(A4_25)",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "6fa8ab66-f760-470c-bbaa-3b2183aeb731",
+        "StationId": "3132016RVER02",
+        "Name": "青草崙灘地沖刷監測-2",
+        "CountyCode": "67000",
+        "CountyName": "臺南市",
+        "TownCode": "67000150",
+        "TownName": "七股區",
+        "Latitude": 23.073109,
+        "Longtiude": 120.08988,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "3a5b9bf1-9135-472d-b90c-d48268d0aa41",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-2-1m",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "4dee10e3-3885-4362-a6f7-19122c37d1b9",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-2-0.5m",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ab7a1c07-1ec5-44c9-8eb7-70972b8d3554",
+        "StationId": "3132016RVER03",
+        "Name": "青草崙灘地沖刷監測-3",
+        "CountyCode": "67000",
+        "CountyName": "臺南市",
+        "TownCode": "67000150",
+        "TownName": "七股區",
+        "Latitude": 23.073109,
+        "Longtiude": 120.08988,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "35c9cafd-0937-4d8e-8f9f-fc72934fd730",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-3-0.5m",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "f48eaadf-be32-40e6-86e7-329581422fda",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-3-1m",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b0071b1d-357c-4e5f-860a-30d5232471c9",
+        "StationId": "3132016RVER06",
+        "Name": "青草崙灘地沖刷監測-6",
+        "CountyCode": "67000",
+        "CountyName": "臺南市",
+        "TownCode": "67000150",
+        "TownName": "七股區",
+        "Latitude": 23.070946,
+        "Longtiude": 120.087425,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "069b390e-e62c-4a34-b688-200f96155fea",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-6-1m",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "ff2eaa13-9c6f-4bb9-a24c-e8f04da0184a",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-6-0.5m",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "ccea04da-ff31-4d9d-bae7-a24024139ebd",
+        "StationId": "3132016RVER04",
+        "Name": "青草崙灘地沖刷監測-4",
+        "CountyCode": "67000",
+        "CountyName": "臺南市",
+        "TownCode": "67000150",
+        "TownName": "七股區",
+        "Latitude": 23.071732,
+        "Longtiude": 120.088715,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "63952c19-102a-4187-a3cb-da054e1c06e2",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-4-1m",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "a0b8321f-67ac-4aac-9944-f8768947bef1",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-4-0.5m",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "4cdc16a4-4e18-46fa-bc42-24957deb4ae7",
+        "StationId": "3132016RVER01",
+        "Name": "青草崙灘地沖刷監測-1",
+        "CountyCode": "67000",
+        "CountyName": "臺南市",
+        "TownCode": "67000350",
+        "TownName": "安南區",
+        "Latitude": 23.072823,
+        "Longtiude": 120.09027,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "7b7a2bae-2dae-4528-b8af-f80ec4656f10",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-1-0.5m",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "99d2c69a-2655-4fc0-a9b2-0217fa4ad831",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-1-1m",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "7066a4e0-f10a-4fab-bb66-7ba2180425d2",
+        "StationId": "3132016RVER05",
+        "Name": "青草崙灘地沖刷監測-5",
+        "CountyCode": "67000",
+        "CountyName": "臺南市",
+        "TownCode": "67000350",
+        "TownName": "安南區",
+        "Latitude": 23.070347,
+        "Longtiude": 120.08886,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0fffd5e5-8639-4b49-80e2-1d373ffbff55",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-5-0.5m",
+                "SIUnit": "m",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "1b034366-f89f-43dd-ac65-446333ea885c",
+                "TimeStamp": "2023-06-11T14:00:00+08:00",
+                "Name": "沖刷深度",
+                "FullName": "青草崙堤防外灘地沖刷監測-5-1m",
+                "SIUnit": "m",
+                "Value": 0.0
+            }
+        ]
+    }
+]

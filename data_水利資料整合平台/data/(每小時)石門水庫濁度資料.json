@@ -1,0 +1,188 @@
+{
+    "totalPage": 1,
+    "totalDataSize": 36,
+    "page": 1,
+    "size": 1000,
+    "responseData": [
+        {
+            "MonitorDate": "2023-09-08T20:00:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "265"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:00:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:00:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:05:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "259"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:05:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:05:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:10:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "253"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:10:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:10:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:15:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "279"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:15:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:15:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:20:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "269"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:20:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:20:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:25:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "286"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:25:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:25:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:30:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "266"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:30:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "4.53"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:30:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:35:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "259"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:35:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "4.5295"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:35:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:40:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "267"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:40:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:40:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:45:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "272"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:45:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:45:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:50:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "279"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:50:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:50:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "3.804"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:55:00",
+            "MonitorLocation": "GP17",
+            "Turbidity": "289"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:55:00",
+            "MonitorLocation": "NW12",
+            "Turbidity": "3.8"
+        },
+        {
+            "MonitorDate": "2023-09-08T20:55:00",
+            "MonitorLocation": "NX08",
+            "Turbidity": "4.5295"
+        }
+    ]
+}

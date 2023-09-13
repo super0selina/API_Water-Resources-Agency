@@ -1,0 +1,1664 @@
+{
+    "totalPage": 1,
+    "totalDataSize": 276,
+    "page": 1,
+    "size": 1000,
+    "responseData": [
+        {
+            "ObservatoryIdentifier": "3132005RV1010H007",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1010H007",
+            "WaterLevel": "109.16"
+        },
+        {
+            "ObservatoryIdentifier": "3132001RV1140H001",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H001",
+            "WaterLevel": "685.41"
+        },
+        {
+            "ObservatoryIdentifier": "3132001RV1140H002",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H002",
+            "WaterLevel": "531.29"
+        },
+        {
+            "ObservatoryIdentifier": "3132001RV1140H041",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H041",
+            "WaterLevel": "830.97"
+        },
+        {
+            "ObservatoryIdentifier": "3132001RV1140H043",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H043",
+            "WaterLevel": "441.68"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H048",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H048",
+            "WaterLevel": "28.68"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H049",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H049",
+            "WaterLevel": "18.70"
+        },
+        {
+            "ObservatoryIdentifier": "3132001RV1140H054",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H054",
+            "WaterLevel": "248.06"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H058",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H058",
+            "WaterLevel": "4.62"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H066",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H066",
+            "WaterLevel": "2.94"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H076",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H076",
+            "WaterLevel": "137.41"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H082",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H082",
+            "WaterLevel": "7.04"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H089",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H089",
+            "WaterLevel": "58.13"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H095",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H095",
+            "WaterLevel": "110.67"
+        },
+        {
+            "ObservatoryIdentifier": "3132005RV1140H096",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H096",
+            "WaterLevel": "170.87"
+        },
+        {
+            "ObservatoryIdentifier": "3132005RV1140H097",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H097",
+            "WaterLevel": "172.20"
+        },
+        {
+            "ObservatoryIdentifier": "3132005RV1140H098",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H098",
+            "WaterLevel": "174.89"
+        },
+        {
+            "ObservatoryIdentifier": "3132005RV1140H099",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H099",
+            "WaterLevel": "263.77"
+        },
+        {
+            "ObservatoryIdentifier": "3132005RV1140H101",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H101",
+            "WaterLevel": "182.09"
+        },
+        {
+            "ObservatoryIdentifier": "3132005RV1140H102",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H102",
+            "WaterLevel": "209.21"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H105",
+            "RecordTime": "2023-09-08T20:55:00",
+            "ST_NO": "1140H105",
+            "WaterLevel": "1.19"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H106",
+            "RecordTime": "2023-09-08T20:55:00",
+            "ST_NO": "1140H106",
+            "WaterLevel": "49.18"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H107",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H107",
+            "WaterLevel": "4.09"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H108",
+            "RecordTime": "2023-09-08T20:55:00",
+            "ST_NO": "1140H108",
+            "WaterLevel": "13.16"
+        },
+        {
+            "ObservatoryIdentifier": "3132005RV1140H109",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H109",
+            "WaterLevel": "49.44"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H110",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H110",
+            "WaterLevel": "42.50"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H126",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H126",
+            "WaterLevel": "82.20"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H127",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H127",
+            "WaterLevel": "32.96"
+        },
+        {
+            "ObservatoryIdentifier": "3132005RV1140H131",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H131",
+            "WaterLevel": "346.79"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H132",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H132",
+            "WaterLevel": "9.00"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H133",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H133",
+            "WaterLevel": "15.81"
+        },
+        {
+            "ObservatoryIdentifier": "3132020RV1140H134",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1140H134",
+            "WaterLevel": "20.13"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1270H001",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1270H001",
+            "WaterLevel": "22.59"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1280H001",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1280H001",
+            "WaterLevel": "71.76"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1290H002",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1290H002",
+            "WaterLevel": "41.29"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1290H004",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1290H004",
+            "WaterLevel": "114.97"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1290H006",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1290H006",
+            "WaterLevel": "66.58"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1290H007",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1290H007",
+            "WaterLevel": "13.58"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H013",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H013",
+            "WaterLevel": "247.68"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H014",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H014",
+            "WaterLevel": "209.58"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H016",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H016",
+            "WaterLevel": "100.77"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H017",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H017",
+            "WaterLevel": "27.60"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H018",
+            "WaterLevel": "97.65"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H019",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H019",
+            "WaterLevel": "86.36"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H020",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H020",
+            "WaterLevel": "252.41"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H021",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H021",
+            "WaterLevel": "0.59"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H022",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1300H022",
+            "WaterLevel": "0.22"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H023",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H023",
+            "WaterLevel": "53.90"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1300H024",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1300H024",
+            "WaterLevel": "29.12"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1310H001",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1310H001",
+            "WaterLevel": "12.83"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1310H002",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1310H002",
+            "WaterLevel": "0.98"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1320H001",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1320H001",
+            "WaterLevel": "2.69"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1320H002",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1320H002",
+            "WaterLevel": "17.65"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H008",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H008",
+            "WaterLevel": "38.80"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H009",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H009",
+            "WaterLevel": "175.72"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H010",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H010",
+            "WaterLevel": "1.43"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H011",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H011",
+            "WaterLevel": "9.10"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H012",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H012",
+            "WaterLevel": "247.69"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H013",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H013",
+            "WaterLevel": "247.29"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H014",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H014",
+            "WaterLevel": "0.02"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H015",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H015",
+            "WaterLevel": "50.71"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1340H016",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1340H016",
+            "WaterLevel": "0.69"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H001",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H001",
+            "WaterLevel": "170.23"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H012",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H012",
+            "WaterLevel": "13.21"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H016",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H016",
+            "WaterLevel": "96.24"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H017",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H017",
+            "WaterLevel": "244.75"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H018",
+            "WaterLevel": "282.71"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H019",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H019",
+            "WaterLevel": "34.23"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H020",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H020",
+            "WaterLevel": "221.33"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H021",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H021",
+            "WaterLevel": "320.10"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H022",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H022",
+            "WaterLevel": "254.23"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H023",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H023",
+            "WaterLevel": "256.38"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H024",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H024",
+            "WaterLevel": "259.93"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H025",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H025",
+            "WaterLevel": "0.89"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H026",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H026",
+            "WaterLevel": "30.88"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H027",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H027",
+            "WaterLevel": "146.60"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H028",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H028",
+            "WaterLevel": "232.86"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H029",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H029",
+            "WaterLevel": "176.16"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H030",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H030",
+            "WaterLevel": "60.49"
+        },
+        {
+            "ObservatoryIdentifier": "3132012RV1350H031",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1350H031",
+            "WaterLevel": "0.46"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1400H008",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1400H008",
+            "WaterLevel": "479.53"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1400H009",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1400H009",
+            "WaterLevel": "190.27"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1400H012",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1400H012",
+            "WaterLevel": "599.00"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1400H015",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1400H015",
+            "WaterLevel": "622.87"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1400H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1400H018",
+            "WaterLevel": "55.86"
+        },
+        {
+            "ObservatoryIdentifier": "3132002RV1400H019",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1400H019",
+            "WaterLevel": "310.71"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1400H020",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1400H020",
+            "WaterLevel": "319.19"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1420H049",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1420H049",
+            "WaterLevel": "54.91"
+        },
+        {
+            "ObservatoryIdentifier": "3132002RV1420H052",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1420H052",
+            "WaterLevel": "428.26"
+        },
+        {
+            "ObservatoryIdentifier": "3132002RV1420H053",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1420H053",
+            "WaterLevel": "473.91"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1420H054",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1420H054",
+            "WaterLevel": "703.45"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1420H055",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1420H055",
+            "WaterLevel": "320.04"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1420H056",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1420H056",
+            "WaterLevel": "197.09"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1420H057",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1420H057",
+            "WaterLevel": "637.75"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1420H058",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1420H058",
+            "WaterLevel": "441.02"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H025",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H025",
+            "WaterLevel": "12.80"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H028",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H028",
+            "WaterLevel": "24.71"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H029",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H029",
+            "WaterLevel": "52.41"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H030",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H030",
+            "WaterLevel": "86.72"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H032",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H032",
+            "WaterLevel": "337.93"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H037",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H037",
+            "WaterLevel": "381.61"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H038",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H038",
+            "WaterLevel": "78.41"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H040",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H040",
+            "WaterLevel": "19.59"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H044",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H044",
+            "WaterLevel": "139.46"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H045",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H045",
+            "WaterLevel": "92.54"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H046",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H046",
+            "WaterLevel": "111.12"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H047",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H047",
+            "WaterLevel": "72.01"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H048",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H048",
+            "WaterLevel": "166.44"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H051",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H051",
+            "WaterLevel": "95.70"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H052",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H052",
+            "WaterLevel": "172.35"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H053",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H053",
+            "WaterLevel": "39.02"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H054",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H054",
+            "WaterLevel": "48.77"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H055",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H055",
+            "WaterLevel": "78.34"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H056",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1430H056",
+            "WaterLevel": "78.69"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H057",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H057",
+            "WaterLevel": "31.67"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H058",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H058",
+            "WaterLevel": "83.08"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H060",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H060",
+            "WaterLevel": "20.82"
+        },
+        {
+            "ObservatoryIdentifier": "3132013RV1430H061",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1430H061",
+            "WaterLevel": "25.10"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H049",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H049",
+            "WaterLevel": "471.98"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H050",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H050",
+            "WaterLevel": "155.62"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H057",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H057",
+            "WaterLevel": "91.29"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H058",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H058",
+            "WaterLevel": "13.47"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H063",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H063",
+            "WaterLevel": "254.49"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H064",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H064",
+            "WaterLevel": "265.43"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H071",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H071",
+            "WaterLevel": "21.22"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510h075",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510h075",
+            "WaterLevel": "347.50"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H076",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H076",
+            "WaterLevel": "5.86"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H079",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H079",
+            "WaterLevel": "188.13"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H080",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H080",
+            "WaterLevel": "-999998.00"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H081",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H081",
+            "WaterLevel": "229.87"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H082",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H082",
+            "WaterLevel": "754.40"
+        },
+        {
+            "ObservatoryIdentifier": "3132002RV1510H083",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1510H083",
+            "WaterLevel": "117.14"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H084",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H084",
+            "WaterLevel": "145.58"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H085",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H085",
+            "WaterLevel": "280.68"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H086",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H086",
+            "WaterLevel": "319.25"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H087",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H087",
+            "WaterLevel": "429.42"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H088",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H088",
+            "WaterLevel": "141.36"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H089",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1510H089",
+            "WaterLevel": "860.18"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H090",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1510H090",
+            "WaterLevel": "-999998.00"
+        },
+        {
+            "ObservatoryIdentifier": "3132014RV1510H091",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1510H091",
+            "WaterLevel": "827.82"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1520H008",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1520H008",
+            "WaterLevel": "78.85"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H009",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H009",
+            "WaterLevel": "1.41"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H014",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H014",
+            "WaterLevel": "9.55"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H029",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H029",
+            "WaterLevel": "14.32"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H030",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H030",
+            "WaterLevel": "28.09"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H031",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H031",
+            "WaterLevel": "11.80"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H032",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H032",
+            "WaterLevel": "20.90"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H033",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H033",
+            "WaterLevel": "23.47"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H035",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H035",
+            "WaterLevel": "87.37"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H036",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H036",
+            "WaterLevel": "0.80"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H037",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H037",
+            "WaterLevel": "31.51"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H038",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H038",
+            "WaterLevel": "55.08"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1540H039",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1540H039",
+            "WaterLevel": "39.52"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1550H011",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1550H011",
+            "WaterLevel": "1.00"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1550H012",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1550H012",
+            "WaterLevel": "1.46"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1550H014",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1550H014",
+            "WaterLevel": "27.24"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1550H016",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1550H016",
+            "WaterLevel": "12.46"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1550H017",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1550H017",
+            "WaterLevel": "17.26"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1550H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1550H018",
+            "WaterLevel": "-999998.00"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H001",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H001",
+            "WaterLevel": "224.69"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H007",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H007",
+            "WaterLevel": "24.72"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H008",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H008",
+            "WaterLevel": "19.94"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H013",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H013",
+            "WaterLevel": "11.81"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H015",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H015",
+            "WaterLevel": "23.48"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H017",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H017",
+            "WaterLevel": "25.95"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H018",
+            "WaterLevel": "21.61"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H020",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H020",
+            "WaterLevel": "34.38"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H021",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H021",
+            "WaterLevel": "1.98"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1580H022",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1580H022",
+            "WaterLevel": "0.80"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1590H012",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1590H012",
+            "WaterLevel": "4.56"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1590H013",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1590H013",
+            "WaterLevel": "24.83"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1590H015",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1590H015",
+            "WaterLevel": "0.54"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1590H016",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1590H016",
+            "WaterLevel": "12.87"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1590H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1590H018",
+            "WaterLevel": "0.52"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1590H019",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1590H019",
+            "WaterLevel": "16.06"
+        },
+        {
+            "ObservatoryIdentifier": "3132015RV1590H020",
+            "RecordTime": "2023-09-08T20:00:00",
+            "ST_NO": "1590H020",
+            "WaterLevel": "-999998.00"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H005",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H005",
+            "WaterLevel": "40.67"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H013",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H013",
+            "WaterLevel": "17.65"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H018",
+            "WaterLevel": "9.98"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H020",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H020",
+            "WaterLevel": "37.05"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H023",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H023",
+            "WaterLevel": "1.13"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H024",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H024",
+            "WaterLevel": "70.73"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H025",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H025",
+            "WaterLevel": "3.76"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H026",
+            "RecordTime": "2023-09-08T20:20:00",
+            "ST_NO": "1630H026",
+            "WaterLevel": "45.57"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H027",
+            "RecordTime": "2023-09-08T20:20:00",
+            "ST_NO": "1630H027",
+            "WaterLevel": "27.05"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H028",
+            "RecordTime": "2023-09-08T20:20:00",
+            "ST_NO": "1630H028",
+            "WaterLevel": "8.92"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H029",
+            "RecordTime": "2023-09-08T20:20:00",
+            "ST_NO": "1630H029",
+            "WaterLevel": "6.73"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H030",
+            "RecordTime": "2023-09-08T20:20:00",
+            "ST_NO": "1630H030",
+            "WaterLevel": "3.81"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H031",
+            "RecordTime": "2023-09-08T20:20:00",
+            "ST_NO": "1630H031",
+            "WaterLevel": "1.30"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H032",
+            "RecordTime": "2023-09-08T20:20:00",
+            "ST_NO": "1630H032",
+            "WaterLevel": "0.56"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H033",
+            "RecordTime": "2023-09-08T20:20:00",
+            "ST_NO": "1630H033",
+            "WaterLevel": "0.22"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H034",
+            "RecordTime": "2023-09-08T20:10:00",
+            "ST_NO": "1630H034",
+            "WaterLevel": "279.61"
+        },
+        {
+            "ObservatoryIdentifier": "3132003RV1630H035",
+            "RecordTime": "2023-09-08T20:10:00",
+            "ST_NO": "1630H035",
+            "WaterLevel": "402.65"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H036",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H036",
+            "WaterLevel": "66.40"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H037",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H037",
+            "WaterLevel": "9.64"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1630H040",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1630H040",
+            "WaterLevel": "3.92"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1650H006",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1650H006",
+            "WaterLevel": "1.69"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1650H009",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1650H009",
+            "WaterLevel": "0.66"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1650H011",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1650H011",
+            "WaterLevel": "0.87"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1650H015",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1650H015",
+            "WaterLevel": "0.70"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1650H016",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1650H016",
+            "WaterLevel": "25.22"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1650H017",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1650H017",
+            "WaterLevel": "0.60"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1650H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1650H018",
+            "WaterLevel": "0.67"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1650H019",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1650H019",
+            "WaterLevel": "4.73"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1660H009",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1660H009",
+            "WaterLevel": "9.76"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1660H010",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1660H010",
+            "WaterLevel": "13.67"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1660H011",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1660H011",
+            "WaterLevel": "4.01"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1660H012",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1660H012",
+            "WaterLevel": "0.53"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1660H013",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1660H013",
+            "WaterLevel": "1.82"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1670H003",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1670H003",
+            "WaterLevel": "1.46"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1670H004",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1670H004",
+            "WaterLevel": "3.67"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1680H004",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1680H004",
+            "WaterLevel": "4.42"
+        },
+        {
+            "ObservatoryIdentifier": "3132016RV1680H005",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1680H005",
+            "WaterLevel": "2.06"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H036",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H036",
+            "WaterLevel": "104.90"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H043",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H043",
+            "WaterLevel": "23.49"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H045",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H045",
+            "WaterLevel": "7.06"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H057",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H057",
+            "WaterLevel": "44.48"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H058",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H058",
+            "WaterLevel": "116.04"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H061",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H061",
+            "WaterLevel": "269.45"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H062",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H062",
+            "WaterLevel": "43.30"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H065",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H065",
+            "WaterLevel": "91.92"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H066",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H066",
+            "WaterLevel": "137.31"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H067",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H067",
+            "WaterLevel": "399.32"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H068",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H068",
+            "WaterLevel": "10.75"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H069",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H069",
+            "WaterLevel": "140.40"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H070",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H070",
+            "WaterLevel": "227.75"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H071",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H071",
+            "WaterLevel": "37.81"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H072",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H072",
+            "WaterLevel": "252.01"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H074",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H074",
+            "WaterLevel": "246.05"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H075",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H075",
+            "WaterLevel": "94.78"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H076",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H076",
+            "WaterLevel": "59.76"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H077",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H077",
+            "WaterLevel": "741.76"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H079",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H079",
+            "WaterLevel": "552.34"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1730H081",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1730H081",
+            "WaterLevel": "347.85"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1740H002",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1740H002",
+            "WaterLevel": "6.58"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1740H007",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1740H007",
+            "WaterLevel": "1.49"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1740H008",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1740H008",
+            "WaterLevel": "2.52"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1740H009",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1740H009",
+            "WaterLevel": "33.04"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1740H010",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "1740H010",
+            "WaterLevel": "47.32"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1740H011",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1740H011",
+            "WaterLevel": "8.90"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1850H004",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1850H004",
+            "WaterLevel": "73.54"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1850H005",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1850H005",
+            "WaterLevel": "24.13"
+        },
+        {
+            "ObservatoryIdentifier": "3132017RV1850H006",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "1850H006",
+            "WaterLevel": "69.37"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H007",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H007",
+            "WaterLevel": "157.50"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H011",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H011",
+            "WaterLevel": "27.18"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H020",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H020",
+            "WaterLevel": "317.21"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H021",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H021",
+            "WaterLevel": "370.89"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H022",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H022",
+            "WaterLevel": "162.20"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H025",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H025",
+            "WaterLevel": "208.49"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H026",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H026",
+            "WaterLevel": "109.59"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H028",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H028",
+            "WaterLevel": "280.44"
+        },
+        {
+            "ObservatoryIdentifier": "3132018RV2200H029",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2200H029",
+            "WaterLevel": "147.09"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2370H004",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2370H004",
+            "WaterLevel": "193.73"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2370H016",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2370H016",
+            "WaterLevel": "169.25"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2370H017",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2370H017",
+            "WaterLevel": "61.49"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2370H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2370H018",
+            "WaterLevel": "124.91"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2370H019",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2370H019",
+            "WaterLevel": "156.63"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2370H025",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2370H025",
+            "WaterLevel": "261.84"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2370H028",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2370H028",
+            "WaterLevel": "210.82"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2420H018",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2420H018",
+            "WaterLevel": "156.17"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2420H019",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2420H019",
+            "WaterLevel": "111.14"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2420H024",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2420H024",
+            "WaterLevel": "5.50"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2420H036",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2420H036",
+            "WaterLevel": "165.00"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2420H037",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2420H037",
+            "WaterLevel": "134.04"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2420H043",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2420H043",
+            "WaterLevel": "80.45"
+        },
+        {
+            "ObservatoryIdentifier": "3132019RV2420H046",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2420H046",
+            "WaterLevel": "36.86"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2500H003",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2500H003",
+            "WaterLevel": "31.01"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H006",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2560H006",
+            "WaterLevel": "3.72"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H017",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2560H017",
+            "WaterLevel": "364.60"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H019",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2560H019",
+            "WaterLevel": "4.65"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H020",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2560H020",
+            "WaterLevel": "0.63"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H022",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2560H022",
+            "WaterLevel": "193.82"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H023",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2560H023",
+            "WaterLevel": "13.46"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H024",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2560H024",
+            "WaterLevel": "201.12"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H025",
+            "RecordTime": "2023-09-08T20:50:00",
+            "ST_NO": "2560H025",
+            "WaterLevel": "3.71"
+        },
+        {
+            "ObservatoryIdentifier": "3132011RV2560H026",
+            "RecordTime": "2023-09-08T20:40:00",
+            "ST_NO": "2560H026",
+            "WaterLevel": "365.78"
+        }
+    ]
+}

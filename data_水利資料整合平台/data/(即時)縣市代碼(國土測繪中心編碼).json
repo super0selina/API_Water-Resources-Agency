@@ -1,0 +1,98 @@
+[
+    {
+        "countyCode": "10002",
+        "countyName": "臺灣省宜蘭縣"
+    },
+    {
+        "countyCode": "10004",
+        "countyName": "臺灣省新竹縣"
+    },
+    {
+        "countyCode": "10005",
+        "countyName": "臺灣省苗栗縣"
+    },
+    {
+        "countyCode": "10007",
+        "countyName": "臺灣省彰化縣"
+    },
+    {
+        "countyCode": "10008",
+        "countyName": "臺灣省南投縣"
+    },
+    {
+        "countyCode": "10009",
+        "countyName": "臺灣省雲林縣"
+    },
+    {
+        "countyCode": "10010",
+        "countyName": "臺灣省嘉義縣"
+    },
+    {
+        "countyCode": "10013",
+        "countyName": "臺灣省屏東縣"
+    },
+    {
+        "countyCode": "10014",
+        "countyName": "臺灣省臺東縣"
+    },
+    {
+        "countyCode": "10015",
+        "countyName": "臺灣省花蓮縣"
+    },
+    {
+        "countyCode": "10016",
+        "countyName": "臺灣省澎湖縣"
+    },
+    {
+        "countyCode": "10017",
+        "countyName": "臺灣省基隆市"
+    },
+    {
+        "countyCode": "10018",
+        "countyName": "臺灣省新竹市"
+    },
+    {
+        "countyCode": "10019",
+        "countyName": "臺灣省臺中市"
+    },
+    {
+        "countyCode": "10020",
+        "countyName": "臺灣省嘉義市"
+    },
+    {
+        "countyCode": "10021",
+        "countyName": "臺灣省臺南市"
+    },
+    {
+        "countyCode": "09007",
+        "countyName": "福建省連江縣"
+    },
+    {
+        "countyCode": "09020",
+        "countyName": "福建省金門縣"
+    },
+    {
+        "countyCode": "63000",
+        "countyName": "臺北市"
+    },
+    {
+        "countyCode": "64000",
+        "countyName": "高雄市"
+    },
+    {
+        "countyCode": "65000",
+        "countyName": "新北市"
+    },
+    {
+        "countyCode": "66000",
+        "countyName": "臺中市"
+    },
+    {
+        "countyCode": "67000",
+        "countyName": "臺南市"
+    },
+    {
+        "countyCode": "68000",
+        "countyName": "桃園市"
+    }
+]

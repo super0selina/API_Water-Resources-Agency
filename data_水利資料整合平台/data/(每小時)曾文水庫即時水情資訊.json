@@ -1,0 +1,224 @@
+{
+    "totalPage": 1,
+    "totalDataSize": 24,
+    "page": 1,
+    "size": 1000,
+    "responseData": [
+        {
+            "AccumulatedRainfall": "37.6",
+            "DateTime": "2023-09-07T22:00:00",
+            "EffectiveWaterStorageCapacity": "42872",
+            "PrecipitationHourly": "3",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.71"
+        },
+        {
+            "AccumulatedRainfall": "38.7",
+            "DateTime": "2023-09-07T23:00:00",
+            "EffectiveWaterStorageCapacity": "42925",
+            "PrecipitationHourly": "1.1",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.74"
+        },
+        {
+            "AccumulatedRainfall": "38.9",
+            "DateTime": "2023-09-08T00:00:00",
+            "EffectiveWaterStorageCapacity": "42977",
+            "PrecipitationHourly": "0.2",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.77"
+        },
+        {
+            "AccumulatedRainfall": "0.1",
+            "DateTime": "2023-09-08T01:00:00",
+            "EffectiveWaterStorageCapacity": "43030",
+            "PrecipitationHourly": "0.1",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.8"
+        },
+        {
+            "AccumulatedRainfall": "0.7",
+            "DateTime": "2023-09-08T02:00:00",
+            "EffectiveWaterStorageCapacity": "43065",
+            "PrecipitationHourly": "0.6",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.82"
+        },
+        {
+            "AccumulatedRainfall": "1.9",
+            "DateTime": "2023-09-08T03:00:00",
+            "EffectiveWaterStorageCapacity": "43100",
+            "PrecipitationHourly": "1.2",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.84"
+        },
+        {
+            "AccumulatedRainfall": "2.5",
+            "DateTime": "2023-09-08T04:00:00",
+            "EffectiveWaterStorageCapacity": "43153",
+            "PrecipitationHourly": "0.6",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.87"
+        },
+        {
+            "AccumulatedRainfall": "2.8",
+            "DateTime": "2023-09-08T05:00:00",
+            "EffectiveWaterStorageCapacity": "43188",
+            "PrecipitationHourly": "0.3",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.89"
+        },
+        {
+            "AccumulatedRainfall": "3",
+            "DateTime": "2023-09-08T06:00:00",
+            "EffectiveWaterStorageCapacity": "43224",
+            "PrecipitationHourly": "0.2",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.91"
+        },
+        {
+            "AccumulatedRainfall": "3.2",
+            "DateTime": "2023-09-08T07:00:00",
+            "EffectiveWaterStorageCapacity": "43259",
+            "PrecipitationHourly": "0.2",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.93"
+        },
+        {
+            "AccumulatedRainfall": "3.2",
+            "DateTime": "2023-09-08T08:00:00",
+            "EffectiveWaterStorageCapacity": "43294",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.95"
+        },
+        {
+            "AccumulatedRainfall": "3.2",
+            "DateTime": "2023-09-08T09:00:00",
+            "EffectiveWaterStorageCapacity": "43329",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.97"
+        },
+        {
+            "AccumulatedRainfall": "3.2",
+            "DateTime": "2023-09-08T10:00:00",
+            "EffectiveWaterStorageCapacity": "43347",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "225.98"
+        },
+        {
+            "AccumulatedRainfall": "3.2",
+            "DateTime": "2023-09-08T11:00:00",
+            "EffectiveWaterStorageCapacity": "43382",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226"
+        },
+        {
+            "AccumulatedRainfall": "3.4",
+            "DateTime": "2023-09-08T12:00:00",
+            "EffectiveWaterStorageCapacity": "43417",
+            "PrecipitationHourly": "0.2",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.02"
+        },
+        {
+            "AccumulatedRainfall": "3.4",
+            "DateTime": "2023-09-08T13:00:00",
+            "EffectiveWaterStorageCapacity": "43435",
+            "PrecipitationHourly": "0",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.03"
+        },
+        {
+            "AccumulatedRainfall": "4.4",
+            "DateTime": "2023-09-08T14:00:00",
+            "EffectiveWaterStorageCapacity": "43470",
+            "PrecipitationHourly": "1",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.05"
+        },
+        {
+            "AccumulatedRainfall": "7.1",
+            "DateTime": "2023-09-08T15:00:00",
+            "EffectiveWaterStorageCapacity": "43506",
+            "PrecipitationHourly": "2.7",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.07"
+        },
+        {
+            "AccumulatedRainfall": "9.3",
+            "DateTime": "2023-09-08T16:00:00",
+            "EffectiveWaterStorageCapacity": "43541",
+            "PrecipitationHourly": "2.2",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.09"
+        },
+        {
+            "AccumulatedRainfall": "13.4",
+            "DateTime": "2023-09-08T17:00:00",
+            "EffectiveWaterStorageCapacity": "43576",
+            "PrecipitationHourly": "4.1",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.11"
+        },
+        {
+            "AccumulatedRainfall": "15",
+            "DateTime": "2023-09-08T18:00:00",
+            "EffectiveWaterStorageCapacity": "43629",
+            "PrecipitationHourly": "1.6",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.14"
+        },
+        {
+            "AccumulatedRainfall": "18.8",
+            "DateTime": "2023-09-08T19:00:00",
+            "EffectiveWaterStorageCapacity": "43682",
+            "PrecipitationHourly": "3.8",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.17"
+        },
+        {
+            "AccumulatedRainfall": "25.8",
+            "DateTime": "2023-09-08T20:00:00",
+            "EffectiveWaterStorageCapacity": "43753",
+            "PrecipitationHourly": "7",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.21"
+        },
+        {
+            "AccumulatedRainfall": "34.1",
+            "DateTime": "2023-09-08T21:00:00",
+            "EffectiveWaterStorageCapacity": "43842",
+            "PrecipitationHourly": "8.3",
+            "ReservoirIdentifier": "31",
+            "ReservoirName": "曾文水庫",
+            "WaterLevel": "226.26"
+        }
+    ]
+}

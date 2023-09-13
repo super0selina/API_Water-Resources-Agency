@@ -1,0 +1,1426 @@
+[
+    {
+        "IoWStationId": "33c401c0-5f57-49ba-a355-c381446ba609",
+        "StationId": "3132012RV0008",
+        "Name": "中正大橋",
+        "CountyCode": "10004",
+        "CountyName": "臺灣省新竹縣",
+        "TownCode": "10004020",
+        "TownName": "竹東鎮",
+        "Latitude": 24.786818,
+        "Longtiude": 121.053795,
+        "AdminName": "經濟部水利署第二河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "4ca52a6c-fd8a-4743-b168-5c9dc51afeaa",
+                "TimeStamp": "2023-09-08T10:59:47+08:00",
+                "Name": "Y軸角度",
+                "FullName": "中正大橋-Y軸",
+                "SIUnit": "度",
+                "Value": 0.0116
+            },
+            {
+                "IoWPhysicalQuantityId": "a91bc918-c170-4126-8896-7307c1217c0a",
+                "TimeStamp": "2023-09-08T10:59:47+08:00",
+                "Name": "X軸角度",
+                "FullName": "中正大橋-X軸",
+                "SIUnit": "度",
+                "Value": -0.0151
+            },
+            {
+                "IoWPhysicalQuantityId": "def00dc8-3042-4c4d-a31e-34ccbbc8be66",
+                "TimeStamp": "2023-09-08T10:59:47+08:00",
+                "Name": "Z軸角度",
+                "FullName": "中正大橋-Z軸",
+                "SIUnit": "度",
+                "Value": 90.0119
+            }
+        ]
+    },
+    {
+        "IoWStationId": "2114b6bb-eb66-4487-a91d-48b1bcb893ba",
+        "StationId": "3132013RV017",
+        "Name": "白布帆堤防",
+        "CountyCode": "10005",
+        "CountyName": "臺灣省苗栗縣",
+        "TownCode": "10005070",
+        "TownName": "卓蘭鎮",
+        "Latitude": 24.2953,
+        "Longtiude": 120.87305,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "38137a39-6247-4199-8f6c-8d6f5d06d29a",
+                "TimeStamp": "2023-09-08T20:57:55+08:00",
+                "Name": "X軸角度",
+                "FullName": "白布帆堤防1X軸角度",
+                "SIUnit": "度",
+                "Value": 0.0393
+            },
+            {
+                "IoWPhysicalQuantityId": "4ee507cb-1d81-45ef-8438-c4a83d3b92c3",
+                "TimeStamp": "2023-09-08T20:57:55+08:00",
+                "Name": "Z軸角度",
+                "FullName": "白布帆堤防1Z軸角度",
+                "SIUnit": "度",
+                "Value": 0.009
+            },
+            {
+                "IoWPhysicalQuantityId": "70f44f51-e276-4529-8e82-ccc50e048566",
+                "TimeStamp": "2023-09-08T21:02:41+08:00",
+                "Name": "X軸角度",
+                "FullName": "白布帆堤防2X軸角度",
+                "SIUnit": "度",
+                "Value": 0.0174
+            },
+            {
+                "IoWPhysicalQuantityId": "77140c82-e960-42ef-a17d-7661aaa40fe8",
+                "TimeStamp": "2023-09-08T21:02:41+08:00",
+                "Name": "Z軸角度",
+                "FullName": "白布帆堤防2Z軸角度",
+                "SIUnit": "度",
+                "Value": -0.018
+            },
+            {
+                "IoWPhysicalQuantityId": "b9b01ce7-4d37-4b95-91e9-94eadb7e9f79",
+                "TimeStamp": "2023-09-08T20:57:55+08:00",
+                "Name": "Y軸角度",
+                "FullName": "白布帆堤防1Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.0359
+            },
+            {
+                "IoWPhysicalQuantityId": "d2592ca8-2b50-4c54-86fc-51afd19969a1",
+                "TimeStamp": "2023-09-08T21:02:41+08:00",
+                "Name": "Y軸角度",
+                "FullName": "白布帆堤防2Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.063
+            }
+        ]
+    },
+    {
+        "IoWStationId": "95782265-0058-4dfd-a332-8e4c0832c4e9",
+        "StationId": "3132013RV018",
+        "Name": "芬園堤防",
+        "CountyCode": "10007",
+        "CountyName": "臺灣省彰化縣",
+        "TownCode": "10007090",
+        "TownName": "芬園鄉",
+        "Latitude": 24.02162,
+        "Longtiude": 120.66059,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "4afd6841-3d29-4098-b4fd-bcaad94f670e",
+                "TimeStamp": "2023-09-08T20:59:59+08:00",
+                "Name": "Z軸角度",
+                "FullName": "芬園堤防2Z軸角度",
+                "SIUnit": "度",
+                "Value": -0.0008
+            },
+            {
+                "IoWPhysicalQuantityId": "4ecca326-71e3-4073-bfdb-f6adfd78ff81",
+                "TimeStamp": "2023-09-08T20:59:56+08:00",
+                "Name": "Y軸角度",
+                "FullName": "芬園堤防1Y軸角度",
+                "SIUnit": "度",
+                "Value": -0.0711
+            },
+            {
+                "IoWPhysicalQuantityId": "554b542e-0967-4e5b-bff8-bb2f0b7de693",
+                "TimeStamp": "2023-09-08T20:59:59+08:00",
+                "Name": "X軸角度",
+                "FullName": "芬園堤防2X軸角度",
+                "SIUnit": "度",
+                "Value": -0.0004
+            },
+            {
+                "IoWPhysicalQuantityId": "65360283-8e9e-4777-bb70-cb61b2f7cb77",
+                "TimeStamp": "2023-09-08T20:59:56+08:00",
+                "Name": "X軸角度",
+                "FullName": "芬園堤防1X軸角度",
+                "SIUnit": "度",
+                "Value": 0.0498
+            },
+            {
+                "IoWPhysicalQuantityId": "85a4c8b5-3aa3-4ef2-958a-aa29146c3e08",
+                "TimeStamp": "2023-09-08T20:59:30+08:00",
+                "Name": "Y軸角度",
+                "FullName": "芬園堤防3Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.0041
+            },
+            {
+                "IoWPhysicalQuantityId": "aa5c63a2-b7e2-49af-87d3-8d34ab9632bb",
+                "TimeStamp": "2023-09-08T20:59:59+08:00",
+                "Name": "Y軸角度",
+                "FullName": "芬園堤防2Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.0001
+            },
+            {
+                "IoWPhysicalQuantityId": "b1204d17-baa4-4978-bcda-b914fc16d13b",
+                "TimeStamp": "2023-09-08T20:59:30+08:00",
+                "Name": "Z軸角度",
+                "FullName": "芬園堤防3Z軸角度",
+                "SIUnit": "度",
+                "Value": -0.0098
+            },
+            {
+                "IoWPhysicalQuantityId": "b43b9f7b-be3a-4195-8d31-67e702ec6d08",
+                "TimeStamp": "2023-09-08T20:59:30+08:00",
+                "Name": "X軸角度",
+                "FullName": "芬園堤防3X軸角度",
+                "SIUnit": "度",
+                "Value": 0.0157
+            },
+            {
+                "IoWPhysicalQuantityId": "efeaedb9-b54c-461a-b239-edfb8fb9a361",
+                "TimeStamp": "2023-09-08T20:59:56+08:00",
+                "Name": "Z軸角度",
+                "FullName": "芬園堤防1Z軸角度",
+                "SIUnit": "度",
+                "Value": -0.0424
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a826cc22-ac5c-40d0-9011-9190d951421c",
+        "StationId": "3132015SD110WG08",
+        "Name": "崩山堤防2+580",
+        "CountyCode": "10010",
+        "CountyName": "臺灣省嘉義縣",
+        "TownCode": "10010080",
+        "TownName": "六腳鄉",
+        "Latitude": 23.503166,
+        "Longtiude": 120.220276,
+        "AdminName": "經濟部水利署第五河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "116e0974-8d7a-47c9-80c1-362da3121d33",
+                "TimeStamp": "2023-05-07T03:21:11+08:00",
+                "Name": "傾斜角度",
+                "FullName": "崩山堤防2+580傾斜計1",
+                "SIUnit": "度",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "20d563f4-af0b-428a-b4bc-946bbea013bc",
+                "TimeStamp": "2023-09-08T09:43:11+08:00",
+                "Name": "傾斜角度",
+                "FullName": "崩山堤防2+580傾斜計2",
+                "SIUnit": "度",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "b050827d-4ea0-4c4d-979e-08026fd52bd8",
+        "StationId": "3132015SD110WG07",
+        "Name": "義興堤防3+880",
+        "CountyCode": "10010",
+        "CountyName": "臺灣省嘉義縣",
+        "TownCode": "10010120",
+        "TownName": "水上鄉",
+        "Latitude": 23.417341,
+        "Longtiude": 120.40878,
+        "AdminName": "經濟部水利署第五河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "38588b9c-ddd6-487b-8612-37b167ceb168",
+                "TimeStamp": "2023-09-08T13:48:42+08:00",
+                "Name": "傾斜角度",
+                "FullName": "義興堤防3+880傾斜計1",
+                "SIUnit": "度",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "f4d012e1-46a3-42b3-b81c-5a5a37c05a92",
+                "TimeStamp": "2023-09-08T13:52:02+08:00",
+                "Name": "傾斜角度",
+                "FullName": "義興堤防3+880傾斜計2",
+                "SIUnit": "度",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "4c5d73a9-5af0-4341-92ef-5052ef3f4626",
+        "StationId": "3132015RV107DK01",
+        "Name": "Q竹崎大橋下游左側(107)",
+        "CountyCode": "10010",
+        "CountyName": "臺灣省嘉義縣",
+        "TownCode": "10010140",
+        "TownName": "竹崎鄉",
+        "Latitude": 23.522717,
+        "Longtiude": 120.54566,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0294617d-8204-4340-a86c-daf5d0ba5bec",
+                "TimeStamp": "2023-09-08T12:16:20.665+08:00",
+                "Name": "Z軸加速度",
+                "FullName": "竹崎大橋下游左側_Z軸加速度",
+                "SIUnit": "cm/s2",
+                "Value": "NaN"
+            },
+            {
+                "IoWPhysicalQuantityId": "4368ab79-0dae-4caa-ab12-e47861f1e20b",
+                "TimeStamp": "2023-09-08T12:16:20.665+08:00",
+                "Name": "混凝土應力",
+                "FullName": "竹崎大橋下游左側_混凝土應變計",
+                "SIUnit": "kg/cm2",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "5f41749b-3a65-4802-9a39-d07c7fa9d8e7",
+                "TimeStamp": "2023-09-08T12:16:20.665+08:00",
+                "Name": "Y軸加速度",
+                "FullName": "竹崎大橋下游左側_Y軸加速度",
+                "SIUnit": "cm/s2",
+                "Value": "NaN"
+            },
+            {
+                "IoWPhysicalQuantityId": "db77e213-9828-4d2b-9456-affe159b9833",
+                "TimeStamp": "2023-09-08T12:16:20.665+08:00",
+                "Name": "X軸加速度",
+                "FullName": "竹崎大橋下游左側_X軸加速度",
+                "SIUnit": "cm/s2",
+                "Value": "NaN"
+            },
+            {
+                "IoWPhysicalQuantityId": "f6077d92-79a0-4520-a739-ac478f498eec",
+                "TimeStamp": "2023-09-08T12:16:20.665+08:00",
+                "Name": "鋼筋應力",
+                "FullName": "竹崎大橋下游左側_鋼筋應力計",
+                "SIUnit": "kg/cm2",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "21827733-b46e-40ff-b947-98c9e27798f5",
+        "StationId": "3132019RVAN003",
+        "Name": "大禹堤防2+100水門",
+        "CountyCode": "10015",
+        "CountyName": "臺灣省花蓮縣",
+        "TownCode": "10015030",
+        "TownName": "玉里鎮",
+        "Latitude": 23.391417,
+        "Longtiude": 121.3408,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "7940f577-255d-462b-a7ae-083201840dd1",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "大禹堤防2+100水門 風向",
+                "SIUnit": "度",
+                "Value": 277.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "367dc0c4-0a2e-4971-9d5a-53a9b08e19ab",
+        "StationId": "3132019RVAN002",
+        "Name": "觀音堤防1+125水門",
+        "CountyCode": "10015",
+        "CountyName": "臺灣省花蓮縣",
+        "TownCode": "10015030",
+        "TownName": "玉里鎮",
+        "Latitude": 23.403172,
+        "Longtiude": 121.35719,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "916c0030-738b-4fbc-9f69-f669ff747a0b",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "觀音堤防1+125水門 風向",
+                "SIUnit": "度",
+                "Value": 22.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "70be4456-c2d4-4934-bef5-07de80bd2cad",
+        "StationId": "3132019RVAN001",
+        "Name": "松浦三號堤防 2+100水門",
+        "CountyCode": "10015",
+        "CountyName": "臺灣省花蓮縣",
+        "TownCode": "10015030",
+        "TownName": "玉里鎮",
+        "Latitude": 23.447515,
+        "Longtiude": 121.37549,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "c342652a-fd4d-4e18-b7a1-149d399a2152",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "松浦三號堤防 2+100水門 風向",
+                "SIUnit": "度",
+                "Value": 354.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a186925f-737a-4851-9bd4-61b0f54590c4",
+        "StationId": "3132019RVAN004",
+        "Name": "竹田堤防1+270水門",
+        "CountyCode": "10015",
+        "CountyName": "臺灣省花蓮縣",
+        "TownCode": "10015100",
+        "TownName": "富里鄉",
+        "Latitude": 23.220642,
+        "Longtiude": 121.27445,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "f837665d-27aa-49ed-bc47-f33096dda586",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "竹田堤防1+270水門 風向",
+                "SIUnit": "度",
+                "Value": 328.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a4ee263b-247a-4789-89f1-c01866b4b54e",
+        "StationId": "3132019RVAN005",
+        "Name": "冷水堤防0+913水門",
+        "CountyCode": "10015",
+        "CountyName": "臺灣省花蓮縣",
+        "TownCode": "10015100",
+        "TownName": "富里鄉",
+        "Latitude": 23.148619,
+        "Longtiude": 121.236626,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "8055ee58-0a82-494b-802f-e54632b29993",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "冷水堤防0+913水門 風向",
+                "SIUnit": "度",
+                "Value": 333.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "1e8add10-ccf5-4606-9f2c-8a0bf8353880",
+        "StationId": "3132017DRB1749F7",
+        "Name": "高屏溪林園堤防 斷面 5～6(2)",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000130",
+        "TownName": "林園區",
+        "Latitude": 22.499401,
+        "Longtiude": 120.41506,
+        "AdminName": "經濟部水利署第七河川局 ",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "198f92dd-99b2-46d9-8bc6-ed5b02602266",
+                "TimeStamp": "2023-09-08T13:49:14+08:00",
+                "Name": "Y軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(2)Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "3cb1a5e2-ca3c-4c5e-8e71-dd3096e5b748",
+                "TimeStamp": "2023-09-08T13:49:14+08:00",
+                "Name": "Z軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(2)Z軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "7b46657f-6245-43a2-9675-5733578ac4b9",
+                "TimeStamp": "2023-09-08T13:49:14+08:00",
+                "Name": "X軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(2)X軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "45a001d0-654c-4fdb-a0ce-e74b1fbe3167",
+        "StationId": "3132017DRAE0EAF8",
+        "Name": "高屏溪林園堤防 斷面 5～6(1)",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000130",
+        "TownName": "林園區",
+        "Latitude": 22.500874,
+        "Longtiude": 120.41474,
+        "AdminName": "經濟部水利署第七河川局 ",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "309a99ca-9bbf-4d6f-9239-d922bd50449f",
+                "TimeStamp": "2023-09-08T20:59:15+08:00",
+                "Name": "Z軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(1)Z軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "4d3cbc04-b933-48f9-8458-4b49e0e9b2bc",
+                "TimeStamp": "2023-09-08T20:59:15+08:00",
+                "Name": "Y軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(1)Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "98983a2f-4072-4c3e-a9e7-e75352a98dde",
+                "TimeStamp": "2023-09-08T20:59:15+08:00",
+                "Name": "X軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(1)X軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "6d199ba0-d269-4c17-ac5e-b30a9eff81ce",
+        "StationId": "3132017DR01A1B51",
+        "Name": "高屏溪林園堤防 斷面 5～6(3)",
+        "CountyCode": "64000",
+        "CountyName": "高雄市",
+        "TownCode": "64000130",
+        "TownName": "林園區",
+        "Latitude": 22.498056,
+        "Longtiude": 120.41539,
+        "AdminName": "經濟部水利署第七河川局 ",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "047d997c-1307-486e-a371-c5b64fd10297",
+                "TimeStamp": "2023-09-08T21:03:14+08:00",
+                "Name": "X軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(3)X軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "f43eb484-0542-4fec-a6ba-5111a3020d52",
+                "TimeStamp": "2023-09-08T21:03:14+08:00",
+                "Name": "Y軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(3)Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            },
+            {
+                "IoWPhysicalQuantityId": "f9708301-8990-4183-8f28-87607613f679",
+                "TimeStamp": "2023-09-08T21:03:14+08:00",
+                "Name": "Z軸角度",
+                "FullName": "高屏溪林園堤防 斷面 5～6(3)Z軸角度",
+                "SIUnit": "度",
+                "Value": 0.0
+            }
+        ]
+    },
+    {
+        "IoWStationId": "73566dd4-3d4f-4673-9f5f-02fa8dd85edc",
+        "StationId": "3132005RVSIDE002",
+        "Name": "覽勝橋上遊左岸擋牆傾斜測站2",
+        "CountyCode": "65000",
+        "CountyName": "新北市",
+        "TownCode": "65000290",
+        "TownName": "烏來區",
+        "Latitude": 24.86013,
+        "Longtiude": 121.55189,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "bd33a09e-4cd4-4753-b2b8-9e9a6a885ac2",
+                "TimeStamp": "2021-12-15T16:50:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "覽勝橋上游邊坡監測2_T04X",
+                "SIUnit": "度",
+                "Value": 8.644
+            },
+            {
+                "IoWPhysicalQuantityId": "d41ae6ca-39ed-4667-b506-12d47a22c1a2",
+                "TimeStamp": "2021-12-15T16:50:00+08:00",
+                "Name": "Y軸角度",
+                "FullName": "覽勝橋上游邊坡監測2_T03Y",
+                "SIUnit": "度",
+                "Value": -16.396
+            },
+            {
+                "IoWPhysicalQuantityId": "d8928409-9fca-48b6-b27b-ed75f62e5d43",
+                "TimeStamp": "2021-12-15T16:50:00+08:00",
+                "Name": "Y軸角度",
+                "FullName": "覽勝橋上游邊坡監測2_T04Y",
+                "SIUnit": "度",
+                "Value": -11.85
+            },
+            {
+                "IoWPhysicalQuantityId": "eefacb5c-cb20-4b16-ba1a-2433cfd31975",
+                "TimeStamp": "2021-12-15T16:50:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "覽勝橋上游邊坡監測2_T03X",
+                "SIUnit": "度",
+                "Value": -6.947
+            }
+        ]
+    },
+    {
+        "IoWStationId": "751c1f8d-46c7-42eb-91c2-671b3c56929b",
+        "StationId": "3132005RVSIDE001",
+        "Name": "覽勝橋上遊左岸擋牆傾斜測站1",
+        "CountyCode": "65000",
+        "CountyName": "新北市",
+        "TownCode": "65000290",
+        "TownName": "烏來區",
+        "Latitude": 24.861279,
+        "Longtiude": 121.551704,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "4219abd2-c6cb-4d18-b5d4-3f9de326d807",
+                "TimeStamp": "2021-12-15T16:50:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "覽勝橋上游邊坡監測1_T02X",
+                "SIUnit": "度",
+                "Value": 16.06
+            },
+            {
+                "IoWPhysicalQuantityId": "6a02dd1f-489a-49e1-9205-869562415084",
+                "TimeStamp": "2021-12-15T16:50:00+08:00",
+                "Name": "Y軸角度",
+                "FullName": "覽勝橋上游邊坡監測1_T02Y",
+                "SIUnit": "度",
+                "Value": 2.595
+            },
+            {
+                "IoWPhysicalQuantityId": "6bf1b0a7-c0e8-40db-a8ae-a0c3ec0811e7",
+                "TimeStamp": "2021-12-15T16:50:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "覽勝橋上游邊坡監測1_T01X",
+                "SIUnit": "度",
+                "Value": -18.692
+            },
+            {
+                "IoWPhysicalQuantityId": "c8616ecc-3721-4f55-87c8-66fa49803d42",
+                "TimeStamp": "2021-12-15T16:50:00+08:00",
+                "Name": "Y軸角度",
+                "FullName": "覽勝橋上游邊坡監測1_T01Y",
+                "SIUnit": "度",
+                "Value": -2.4635
+            }
+        ]
+    },
+    {
+        "IoWStationId": "22b63383-5fab-4fac-b0f9-15a8bdd073fc",
+        "StationId": "3132013SDBT05",
+        "Name": "東勢傾斜計BT05",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24599,
+        "Longtiude": 120.82646,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "32ec63b6-34b2-4142-bb74-3ad712f1c8af",
+                "TimeStamp": "2023-09-06T14:31:32+08:00",
+                "Name": "X軸角度",
+                "FullName": "東勢堤防BT05_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 1.8338
+            },
+            {
+                "IoWPhysicalQuantityId": "8448ed05-db09-4643-84a3-fb6f905db92a",
+                "TimeStamp": "2023-09-06T14:31:35+08:00",
+                "Name": "Y軸角度",
+                "FullName": "東勢堤防BT05_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 2.0559
+            }
+        ]
+    },
+    {
+        "IoWStationId": "51550be1-c6bb-4888-a9e9-031851fa640b",
+        "StationId": "3132013SDBT01",
+        "Name": "東勢傾斜計BT01",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.23524,
+        "Longtiude": 120.82781,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "496d8cb6-6268-417b-b46b-2263378d8392",
+                "TimeStamp": "2023-09-06T14:31:06+08:00",
+                "Name": "Y軸角度",
+                "FullName": "東勢堤防BT01_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.0067
+            },
+            {
+                "IoWPhysicalQuantityId": "b60a56a7-76cb-47cb-bb98-1e9898c7eb38",
+                "TimeStamp": "2023-09-06T14:31:03+08:00",
+                "Name": "X軸角度",
+                "FullName": "東勢堤防BT01_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.7045
+            }
+        ]
+    },
+    {
+        "IoWStationId": "5284403c-902d-43de-b2ca-a0d1f733707a",
+        "StationId": "3132013RV019",
+        "Name": "水尾堤防",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.31758,
+        "Longtiude": 120.77158,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "28bbc387-19f4-423a-8cda-f6420cda56d7",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "Y軸角度",
+                "FullName": "水尾堤防2Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.0057
+            },
+            {
+                "IoWPhysicalQuantityId": "2b587ca5-65fd-4017-adc0-9c763824e93f",
+                "TimeStamp": "2023-08-16T21:49:58+08:00",
+                "Name": "Y軸角度",
+                "FullName": "水尾堤防1Y軸角度",
+                "SIUnit": "度",
+                "Value": -0.2164
+            },
+            {
+                "IoWPhysicalQuantityId": "4e2b449b-102d-4d8c-9093-cd050edb0b31",
+                "TimeStamp": "2023-08-16T21:49:58+08:00",
+                "Name": "Z軸角度",
+                "FullName": "水尾堤防1Z軸角度",
+                "SIUnit": "度",
+                "Value": 0.2065
+            },
+            {
+                "IoWPhysicalQuantityId": "6db140a5-1fc0-4cb9-a0fc-db8aa35efb83",
+                "TimeStamp": "2023-08-16T21:49:58+08:00",
+                "Name": "X軸角度",
+                "FullName": "水尾堤防1X軸角度",
+                "SIUnit": "度",
+                "Value": -0.1003
+            },
+            {
+                "IoWPhysicalQuantityId": "7be09edd-9acc-49f5-b04c-fd9ddc1f3789",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "X軸角度",
+                "FullName": "水尾堤防2X軸角度",
+                "SIUnit": "",
+                "Value": 0.0018
+            },
+            {
+                "IoWPhysicalQuantityId": "871060eb-f024-480c-8111-dfd9c29d50a9",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "Z軸角度",
+                "FullName": "水尾堤防2Z軸角度",
+                "SIUnit": "度",
+                "Value": 0.0012
+            }
+        ]
+    },
+    {
+        "IoWStationId": "5780ebf5-7b6c-43bf-9909-e6a50c8a3d1c",
+        "StationId": "3132013SDBT06",
+        "Name": "東勢傾斜計BT06",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.2486,
+        "Longtiude": 120.82633,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "a16e8b5a-0048-4051-ad5b-61a367712f42",
+                "TimeStamp": "2023-09-06T14:31:39+08:00",
+                "Name": "X軸角度",
+                "FullName": "東勢堤防BT06_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.6393
+            },
+            {
+                "IoWPhysicalQuantityId": "edfe25ea-d10c-4e83-ac62-44f64d3a9324",
+                "TimeStamp": "2023-09-06T14:31:42+08:00",
+                "Name": "Y軸角度",
+                "FullName": "東勢堤防BT06_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.0309
+            }
+        ]
+    },
+    {
+        "IoWStationId": "89049fce-1032-4ada-8708-bd6c6567a9cf",
+        "StationId": "3132013SDBT02",
+        "Name": "東勢傾斜計BT02",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.23789,
+        "Longtiude": 120.8274,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "6360b125-c78b-4ddc-b652-f2411ed18557",
+                "TimeStamp": "2023-09-06T14:31:10+08:00",
+                "Name": "X軸角度",
+                "FullName": "東勢堤防BT02_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.0586
+            },
+            {
+                "IoWPhysicalQuantityId": "d674532a-d843-48be-bccd-64d5edfe4a6c",
+                "TimeStamp": "2023-09-06T14:31:13+08:00",
+                "Name": "Y軸角度",
+                "FullName": "東勢堤防BT02_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.0969
+            }
+        ]
+    },
+    {
+        "IoWStationId": "cb1f7e1c-eea4-42a1-bd0a-5e881eabbd48",
+        "StationId": "3132013SDBT04",
+        "Name": "東勢傾斜計BT04",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.24327,
+        "Longtiude": 120.82674,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "ba0ef15d-b3e6-4daf-9cc9-94b138e315a1",
+                "TimeStamp": "2023-09-06T14:31:24+08:00",
+                "Name": "X軸角度",
+                "FullName": "東勢堤防BT04_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.0758
+            },
+            {
+                "IoWPhysicalQuantityId": "f5a67754-0334-4321-adb6-60bfb36a8b55",
+                "TimeStamp": "2023-09-06T14:31:28+08:00",
+                "Name": "Y軸角度",
+                "FullName": "東勢堤防BT04_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.2121
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e3d03485-4f41-435b-aa06-2d3a1721817d",
+        "StationId": "3132013SDBT03",
+        "Name": "東勢傾斜計BT03",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000100",
+        "TownName": "東勢區",
+        "Latitude": 24.2406,
+        "Longtiude": 120.827,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "93d32893-3857-46c3-96e0-5468dc345b27",
+                "TimeStamp": "2023-09-06T14:31:21+08:00",
+                "Name": "Y軸角度",
+                "FullName": "東勢堤防BT03_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.2246
+            },
+            {
+                "IoWPhysicalQuantityId": "d26658c8-02bf-40e4-8c77-162d00ef4ce0",
+                "TimeStamp": "2023-09-06T14:31:17+08:00",
+                "Name": "X軸角度",
+                "FullName": "東勢堤防BT03_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.1059
+            }
+        ]
+    },
+    {
+        "IoWStationId": "40ca8d50-3ae0-4c7a-8128-2c194017076c",
+        "StationId": "3132013RV014",
+        "Name": "客庄堤防",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000120",
+        "TownName": "清水區",
+        "Latitude": 24.31341,
+        "Longtiude": 120.60794,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "341e7e03-b21e-402c-8237-bedb9101ff65",
+                "TimeStamp": "2023-09-08T20:59:51+08:00",
+                "Name": "Z軸角度",
+                "FullName": "客庄堤防-Z軸",
+                "SIUnit": "度",
+                "Value": 0.0123
+            },
+            {
+                "IoWPhysicalQuantityId": "5656ff6c-4229-42f4-9741-f4c73713c423",
+                "TimeStamp": "2023-09-08T20:59:51+08:00",
+                "Name": "Y軸角度",
+                "FullName": "客庄堤防-Y軸",
+                "SIUnit": "度",
+                "Value": 0.0148
+            },
+            {
+                "IoWPhysicalQuantityId": "8e1689c4-51e4-40b9-9f54-2cc4f7d9c75f",
+                "TimeStamp": "2023-09-08T20:59:51+08:00",
+                "Name": "X軸角度",
+                "FullName": "客庄堤防-X軸",
+                "SIUnit": "度",
+                "Value": 0.0086
+            }
+        ]
+    },
+    {
+        "IoWStationId": "8baedbc9-0a03-49ff-bb47-94ade9347474",
+        "StationId": "3132013RV012",
+        "Name": "舊社堤防",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.286457,
+        "Longtiude": 120.70696,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "198588fe-a08a-4c54-908b-747b06c073dd",
+                "TimeStamp": "2023-09-08T20:56:18+08:00",
+                "Name": "X軸角度",
+                "FullName": "舊社堤防-X軸",
+                "SIUnit": "度",
+                "Value": 0.0223
+            },
+            {
+                "IoWPhysicalQuantityId": "1c5ea450-9b0f-4c05-8947-c1b3c6984800",
+                "TimeStamp": "2023-09-08T20:56:18+08:00",
+                "Name": "Z軸角度",
+                "FullName": "舊社堤防-Z軸",
+                "SIUnit": "度",
+                "Value": -0.0188
+            },
+            {
+                "IoWPhysicalQuantityId": "c26ffd82-133f-4991-b4b6-4829dfd06f94",
+                "TimeStamp": "2023-09-08T20:56:18+08:00",
+                "Name": "Y軸角度",
+                "FullName": "舊社堤防-Y軸",
+                "SIUnit": "度",
+                "Value": 0.0108
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e4e235f5-4137-4203-8690-a9c25853dbde",
+        "StationId": "3132013RV011",
+        "Name": "正隆護岸",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000150",
+        "TownName": "后里區",
+        "Latitude": 24.285435,
+        "Longtiude": 120.72922,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0d1d05d8-60d6-4e09-8e06-e9e018ce6d51",
+                "TimeStamp": "2023-09-08T20:59:51+08:00",
+                "Name": "Z軸角度",
+                "FullName": "正隆護岸-Z軸",
+                "SIUnit": "度",
+                "Value": -0.0018
+            },
+            {
+                "IoWPhysicalQuantityId": "5409dbb3-0f8d-4309-84e7-aeab83f887ee",
+                "TimeStamp": "2023-09-08T20:59:51+08:00",
+                "Name": "Y軸角度",
+                "FullName": "正隆護岸-Y軸",
+                "SIUnit": "度",
+                "Value": -0.0046
+            },
+            {
+                "IoWPhysicalQuantityId": "b9e4a046-4f5c-41ce-a1a6-dd3e8a4ba5aa",
+                "TimeStamp": "2023-09-08T20:59:51+08:00",
+                "Name": "X軸角度",
+                "FullName": "正隆護岸-X軸",
+                "SIUnit": "度",
+                "Value": 0.005
+            }
+        ]
+    },
+    {
+        "IoWStationId": "21c8ec20-d95f-4f07-9edc-a0350536ee4c",
+        "StationId": "3132013SDDT02",
+        "Name": "新庄子傾斜計DT02",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29323,
+        "Longtiude": 120.64748,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "9b59014d-f8e9-4b45-bd3b-44d66fcaa0d0",
+                "TimeStamp": "2023-09-06T14:32:11+08:00",
+                "Name": "Y軸角度",
+                "FullName": "新庄子護岸DT02_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.6382
+            }
+        ]
+    },
+    {
+        "IoWStationId": "5f8fbc65-330a-4b3b-a1ae-f9c45629e532",
+        "StationId": "3132013SDDT03",
+        "Name": "新庄子傾斜計DT03",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29398,
+        "Longtiude": 120.64662,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "3ddd1ba5-8a74-4350-b4c6-742e45ad608a",
+                "TimeStamp": "2023-09-06T14:32:18+08:00",
+                "Name": "Y軸角度",
+                "FullName": "新庄子護岸DT03_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.0919
+            },
+            {
+                "IoWPhysicalQuantityId": "7a7ee6bd-61e3-4692-adb6-99b7d91200f7",
+                "TimeStamp": "2023-09-06T14:32:15+08:00",
+                "Name": "X軸角度",
+                "FullName": "新庄子護岸DT03_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.0184
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a92e2217-ef3e-43a5-b6cf-45514534f767",
+        "StationId": "3132013RV013",
+        "Name": "豐洲堤防",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.279411,
+        "Longtiude": 120.70124,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "698792e8-4071-4615-9cd7-ae0f27004dc9",
+                "TimeStamp": "2023-09-08T21:00:33+08:00",
+                "Name": "Y軸角度",
+                "FullName": "豐洲堤防-Y軸",
+                "SIUnit": "度",
+                "Value": -0.0063
+            },
+            {
+                "IoWPhysicalQuantityId": "84cc2edc-b005-4fb8-a667-deaba9443731",
+                "TimeStamp": "2023-09-08T21:00:33+08:00",
+                "Name": "X軸角度",
+                "FullName": "豐洲堤防-X軸",
+                "SIUnit": "度",
+                "Value": 0.0023
+            },
+            {
+                "IoWPhysicalQuantityId": "929a6883-945f-4757-9da5-9a3ffead0d5e",
+                "TimeStamp": "2023-09-08T21:00:33+08:00",
+                "Name": "Z軸角度",
+                "FullName": "豐洲堤防-Z軸",
+                "SIUnit": "度",
+                "Value": -0.0054
+            }
+        ]
+    },
+    {
+        "IoWStationId": "e110b225-6005-4548-9343-ef9ca321e296",
+        "StationId": "3132013SDDT01",
+        "Name": "新庄子傾斜計DT01",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000160",
+        "TownName": "神岡區",
+        "Latitude": 24.29155,
+        "Longtiude": 120.64995,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "6d6b27e5-5d44-4414-9afa-203e005f96ef",
+                "TimeStamp": "2023-09-06T14:32:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "新庄子護岸DT01_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.2645
+            }
+        ]
+    },
+    {
+        "IoWStationId": "4fda0712-a3b2-424c-b5c8-c2b09133ad0a",
+        "StationId": "3132013RV008",
+        "Name": "白毛台護岸",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000190",
+        "TownName": "新社區",
+        "Latitude": 24.16585,
+        "Longtiude": 120.88803,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "0ddb0a31-18d4-43d5-b664-69e4145dabb2",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "Z軸角度",
+                "FullName": "白毛台護岸-Z軸",
+                "SIUnit": "度",
+                "Value": -0.0011
+            },
+            {
+                "IoWPhysicalQuantityId": "2d39f38c-ba0b-4802-b1a8-f464d97f15ea",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "X軸角度",
+                "FullName": "白毛台護岸-X軸",
+                "SIUnit": "度",
+                "Value": -0.0012
+            },
+            {
+                "IoWPhysicalQuantityId": "71a0dedb-adb1-4d78-b8ca-621353004f8e",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "Y軸角度",
+                "FullName": "白毛台護岸-Y軸",
+                "SIUnit": "度",
+                "Value": -0.0017
+            }
+        ]
+    },
+    {
+        "IoWStationId": "7de3bc88-55d9-45f6-aea6-b1ca5b22217a",
+        "StationId": "3132013SDCT02",
+        "Name": "埤豐傾斜計CT02",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.27851,
+        "Longtiude": 120.76257,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "4232b472-d050-421c-816e-425f6bdd623f",
+                "TimeStamp": "2023-09-06T14:31:57+08:00",
+                "Name": "Y軸角度",
+                "FullName": "埤豐護岸CT02_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.0176
+            },
+            {
+                "IoWPhysicalQuantityId": "fdfdba1b-6d32-4e04-a587-42bc1e01b2f5",
+                "TimeStamp": "2023-09-06T14:31:53+08:00",
+                "Name": "X軸角度",
+                "FullName": "埤豐護岸CT02_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.0861
+            }
+        ]
+    },
+    {
+        "IoWStationId": "9dfada3c-396b-47eb-bd6f-4c2061efefff",
+        "StationId": "3132013RV009",
+        "Name": "土牛堤防",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.26924,
+        "Longtiude": 120.81338,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "79d02f31-b7b6-4e05-910f-d9c284b74efd",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "Y軸角度",
+                "FullName": "土牛堤防-Y軸",
+                "SIUnit": "度",
+                "Value": -0.0078
+            },
+            {
+                "IoWPhysicalQuantityId": "d9d4a953-44f0-446d-af11-f7e9ad0345e6",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "X軸角度",
+                "FullName": "土牛堤防-X軸",
+                "SIUnit": "度",
+                "Value": -0.0007
+            },
+            {
+                "IoWPhysicalQuantityId": "df047cac-1d99-482f-8d88-8c0fadbbac15",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "Z軸角度",
+                "FullName": "土牛堤防-Z軸",
+                "SIUnit": "度",
+                "Value": 0.0073
+            }
+        ]
+    },
+    {
+        "IoWStationId": "a281c2a8-7188-46ad-b838-e5e071fed9c9",
+        "StationId": "3132013SDCT01",
+        "Name": "埤豐傾斜計CT01",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.27881,
+        "Longtiude": 120.7638,
+        "AdminName": "經濟部水利署三河局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "4543d9ce-0592-4bc6-ae4f-c7df578339a2",
+                "TimeStamp": "2023-09-06T14:31:50+08:00",
+                "Name": "Y軸角度",
+                "FullName": "埤豐護岸CT01_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 2.4773
+            },
+            {
+                "IoWPhysicalQuantityId": "fc953d76-e791-4422-9bda-e44c94269dcf",
+                "TimeStamp": "2023-09-06T14:31:46+08:00",
+                "Name": "X軸角度",
+                "FullName": "埤豐護岸CT01_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 3.2903
+            }
+        ]
+    },
+    {
+        "IoWStationId": "f8b4663b-6f75-4c12-aee4-121fdb28d4ac",
+        "StationId": "3132013RV010",
+        "Name": "梅子護岸",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000200",
+        "TownName": "石岡區",
+        "Latitude": 24.277304,
+        "Longtiude": 120.80935,
+        "AdminName": "經濟部水利署第三河川局",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "b07edce3-e443-41a6-9766-19420c53997b",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "X軸角度",
+                "FullName": "梅子護岸-X軸",
+                "SIUnit": "度",
+                "Value": -0.0052
+            },
+            {
+                "IoWPhysicalQuantityId": "b546e0c5-9644-40d7-a2d7-8ab201537748",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "Y軸角度",
+                "FullName": "梅子護岸-Y軸",
+                "SIUnit": "度",
+                "Value": -0.0033
+            },
+            {
+                "IoWPhysicalQuantityId": "d65d909e-dcaf-41e4-b4d9-4b66f3a8b621",
+                "TimeStamp": "2023-09-08T20:59:57+08:00",
+                "Name": "Z軸角度",
+                "FullName": "梅子護岸-Z軸",
+                "SIUnit": "度",
+                "Value": -0.0042
+            }
+        ]
+    },
+    {
+        "IoWStationId": "0afcd41e-8dec-4b03-b4d4-2cf5a1ff0b37",
+        "StationId": "3132013SDAT02",
+        "Name": "南勢傾斜計AT02",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16816,
+        "Longtiude": 120.89333,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "7ca38771-6a4a-41b9-89a0-beda7bcb4308",
+                "TimeStamp": "2023-09-06T14:30:44+08:00",
+                "Name": "Y軸角度",
+                "FullName": "南勢堤防AT02_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.2985
+            },
+            {
+                "IoWPhysicalQuantityId": "aade48d0-71e2-4bfc-beb0-a99d84f5e7f9",
+                "TimeStamp": "2023-09-06T14:30:41+08:00",
+                "Name": "X軸角度",
+                "FullName": "南勢堤防AT02_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.2161
+            }
+        ]
+    },
+    {
+        "IoWStationId": "602105e3-58e2-4624-b667-c2784abc7beb",
+        "StationId": "3132013SDAT03",
+        "Name": "南勢傾斜計AT03",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16874,
+        "Longtiude": 120.89136,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "39d0b50f-2fe0-49c0-aacc-7073ecdd3f68",
+                "TimeStamp": "2023-09-06T14:30:52+08:00",
+                "Name": "Y軸角度",
+                "FullName": "南勢堤防AT03_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.0697
+            },
+            {
+                "IoWPhysicalQuantityId": "ba428d91-ae18-44f8-b51c-8f92050fb65b",
+                "TimeStamp": "2023-09-06T14:30:48+08:00",
+                "Name": "X軸角度",
+                "FullName": "南勢堤防AT03_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.2379
+            }
+        ]
+    },
+    {
+        "IoWStationId": "7b00b9d9-0f73-4b9e-ba82-87811e392993",
+        "StationId": "3132013SDAT01",
+        "Name": "南勢傾斜計AT01",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16774,
+        "Longtiude": 120.89426,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "26aecd16-42ce-4f0f-803b-5ad4f221ce86",
+                "TimeStamp": "2023-09-06T14:30:34+08:00",
+                "Name": "X軸角度",
+                "FullName": "南勢堤防AT01_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.2114
+            },
+            {
+                "IoWPhysicalQuantityId": "cd0e4c13-010f-44cc-9b7c-95ff84d7c783",
+                "TimeStamp": "2023-09-06T14:30:37+08:00",
+                "Name": "Y軸角度",
+                "FullName": "南勢堤防AT01_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.0523
+            }
+        ]
+    },
+    {
+        "IoWStationId": "938b95b9-8f8e-4c07-adc8-cafbbfd2a11a",
+        "StationId": "3132013SDAT04",
+        "Name": "南勢傾斜計AT04",
+        "CountyCode": "66000",
+        "CountyName": "臺中市",
+        "TownCode": "66000290",
+        "TownName": "和平區",
+        "Latitude": 24.16898,
+        "Longtiude": 120.88949,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "2883c435-2f1d-4598-a04a-dad889547c71",
+                "TimeStamp": "2023-09-06T14:30:59+08:00",
+                "Name": "Y軸角度",
+                "FullName": "南勢堤防AT04_Y軸傾斜角度",
+                "SIUnit": "度",
+                "Value": -0.3119
+            },
+            {
+                "IoWPhysicalQuantityId": "ae27b84c-8050-4bc9-b1ca-89c05f2fc3f0",
+                "TimeStamp": "2023-09-06T14:30:55+08:00",
+                "Name": "X軸角度",
+                "FullName": "南勢堤防AT04_X軸傾斜角度",
+                "SIUnit": "度",
+                "Value": 0.0463
+            }
+        ]
+    },
+    {
+        "IoWStationId": "54f7b2d9-1217-4c6e-8e00-e67db2b3c4e1",
+        "StationId": "A130616RVXX010",
+        "Name": "尖山堤防56號水門",
+        "CountyCode": "67000",
+        "CountyName": "臺南市",
+        "TownCode": "67000110",
+        "TownName": "大內區",
+        "Latitude": 23.1244,
+        "Longtiude": 120.3786,
+        "AdminName": "經濟部水利署",
+        "Measurements": [
+            {
+                "IoWPhysicalQuantityId": "374a49d1-cc30-4f6c-aa3a-9a3ba208d32a",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "Y軸角度",
+                "FullName": "曾文溪尖山堤防56號水門  傾斜儀2 Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.6037
+            },
+            {
+                "IoWPhysicalQuantityId": "73928917-19b8-4e2c-9244-d5d633674e28",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "曾文溪尖山堤防56號水門  傾斜儀2 X軸角度",
+                "SIUnit": "度",
+                "Value": -0.0106
+            },
+            {
+                "IoWPhysicalQuantityId": "7d8b79db-9efd-43e5-bc67-4262b0808382",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "X軸角度",
+                "FullName": "曾文溪尖山堤防56號水門  傾斜儀1 X軸角度",
+                "SIUnit": "度",
+                "Value": 0.007
+            },
+            {
+                "IoWPhysicalQuantityId": "b8c4617a-62b5-4146-b9e7-26d09670ecae",
+                "TimeStamp": "2023-09-08T21:00:00+08:00",
+                "Name": "Y軸角度",
+                "FullName": "曾文溪尖山堤防56號水門  傾斜儀1 Y軸角度",
+                "SIUnit": "度",
+                "Value": 0.1732
+            }
+        ]
+    }
+]
